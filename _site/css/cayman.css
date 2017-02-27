@@ -194,3 +194,19 @@ a:hover { text-decoration: underline; }
 
 .site-footer-owner { display: block; font-weight: bold; }
 .site-footer-credits { color: #819198; }
+
+ .site-footer .footer {
+    font-size: 80%;
+    color: #666;
+    margin-top: 0;
+    overflow: hidden;
+  }
+
+  .site-footer .footer .contact {
+    float: left;
+    margin-right: 3em;
+  }
+
+  .site-footer .footer .contact a {
+     color: #8085C1;
+  }
