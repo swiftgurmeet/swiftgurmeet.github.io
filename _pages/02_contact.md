@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Gurmeet Singh : my contact file
+I'm reachable at gurmeetsbox-learn@yahoo.com
 

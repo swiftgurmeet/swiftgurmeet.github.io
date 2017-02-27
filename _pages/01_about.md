@@ -4,9 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Gurmeet Singh : my about file
-
-* A list item
-* Another list item
-
-
+I live and work in the bay area.
