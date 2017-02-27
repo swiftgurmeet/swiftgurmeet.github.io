@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-I live and work in the bay area.
+My name is Gurmeet Singh. I have lived in the northern California for last 21 years and had the previlege of working on some of the leading edge projects with the finest people.
