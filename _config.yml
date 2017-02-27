@@ -1,12 +1,19 @@
 # Setup
-title:        Details
-tagline:      A responsive theme for your project on GitHub Pages
+title:        My Professional Life
+tagline:      Versatility, Excellence and Breadth of Engineering Expertise
 paginate:     1
 
 # About/contact
 author:
   name:       Gurmeet Singh
   url:        https://swiftgurmeet.github.io/
+
+email: gurmeetsbox-learn@yahoo.com
+description: > # this means to ignore newlines until "baseurl:"
+  Programming Life of Gurmeet Singh. See resume, projects, posts and professional history
+baseurl: ""
+github_username: swiftgurmeet
+linkedin_username: gurmeet
 
 #Static pages live here e.g. about.md
 include: ['_pages']
