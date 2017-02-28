@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Summary
 
-I was the best student of my class for all 7 years of my graduate and post graduate education including 4 years at India's best engineering institution. I have 23 years of leading edge IC design experience including physical implementation, flow development and methodology, both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge including programming/circuits/eda tools/systems, and ingenuity. 
+I received my Masters of Engineering from India's best engineering institution and was the best student in my class for all 7 years of college. I have over 23 years of leading edge experience including IC physical implementation, flow development and methodology, both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge including programming/circuits/eda tools/systems, and ingenuity. 
 
 Note: I’m unable to relocate or travel outside the SF bay area.
 
