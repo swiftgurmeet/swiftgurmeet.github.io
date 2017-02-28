@@ -66,39 +66,37 @@ I’m unable to relocate or travel outside the SF bay area.
 ## Education:
 
 #### [2015-2016]: Coursera Courses
-1. Machine Learning
-1. Machine Learning With Big Data
-1. Practical Machine Learning
-1. R Programming
-1. Statistical Inference
-1. Reproducible Research
-1. Regression Models
-1. Functional Programming Principles in Scala
-1. Object Oriented Programming in Java
-1. Financial Markets
-1. Graph Analytics for Big Data
-1. Hadoop Platform and Application Framework
-1. The Data Scientist’s Toolbox
-1. Getting and Cleaning Data
-1. Exploratory Data Analysis
-1. Developing Data Products
-1. Introduction to Big Data 
-1. Introduction to Big Data Analytics
-1. HTML, CSS and Javascript for Web Developers
-1. Coursera Mentor Community and Training Course
 
-
+1. Machine Learning	[(Cert)][coursera-ml]
+1. Machine Learning With Big Data  [(Cert)][coursera-ml-bigdata]
+1. Practical Machine Learning	[(Cert)][coursera-pml]
+1. R Programming	[(Cert)][coursera-r]
+1. Statistical Inference	[(Cert)][coursera-statinf]
+1. Reproducible Research	[(Cert)][coursera-repro]
+1. Regression Models	[(Cert)][coursera-regress]
+1. Functional Programming Principles in Scala	[(Cert)][coursera-scala1]
+1. Object Oriented Programming in Java	
+1. Financial Markets	[(Cert)][coursera-finan]
+1. Graph Analytics for Big Data	[(Cert)][coursera-graph]
+1. Hadoop Platform and Application Framework	[(Cert)][coursera-hadoop]
+1. The Data Scientist’s Toolbox	[(Cert)][coursera-datool]
+1. Getting and Cleaning Data	[(Cert)][coursera-getclean]
+1. Exploratory Data Analysis	[(Cert)][coursera-explordat]
+1. Developing Data Products	[(Cert)][coursera-ddp]
+1. Introduction to Big Data	[(Cert)][coursera-bigdata]
+1. Introduction to Big Data Analytics	[(Cert)][coursera-biganl]
+1. HTML, CSS and Javascript for Web Developers	
+	
 #### [12/2006]  Introduction to Digital Signal Processing Course, UC Berkeley, A Grade
 
 #### [1989-93]  M.Engg, [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. First class with distinction. Alumni medal, best student, 1990-93
 
-#### [1986-89]  B.Sc., Physics, [Delhi University][delhi-university]. First class with distinction. Gold medal for best student, 1987/88/89.
+#### [1986-89]  B.Sc., Physics, [Delhi University][delhi-university]. First class with distinction. Gold medal, best student, 1987/88/89.
 
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
 [iisc-ece]: http://ece.iisc.ernet.in
-[coursera-scala1]: https://www.coursera.org/account/accomplishments/certificate/AWT74ZHBS7FF
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/BWUZ2YPXS7JF
 [coursera-ml-bigdata]: https://www.coursera.org/account/accomplishments/certificate/56KMVVKJM2AS
 [coursera-pml]: https://www.coursera.org/account/accomplishments/certificate/8BXT3T2YRTBB
@@ -106,6 +104,7 @@ I’m unable to relocate or travel outside the SF bay area.
 [coursera-statinf]: https://www.coursera.org/account/accomplishments/certificate/U2UYR8VUCY
 [coursera-repro]: https://www.coursera.org/account/accomplishments/certificate/E4Z67X5PMB
 [coursera-regress]: https://www.coursera.org/account/accomplishments/certificate/YQ8FQNN949
+[coursera-scala1]: https://www.coursera.org/account/accomplishments/certificate/AWT74ZHBS7FF
 [coursera-finan]: https://www.coursera.org/account/accomplishments/certificate/3EVU83WLBL9H
 [coursera-graph]: https://www.coursera.org/account/accomplishments/certificate/8VVZZUZDNAS7
 [coursera-hadoop]: https://www.coursera.org/account/accomplishments/certificate/DVP66MPC2WX6
