@@ -22,7 +22,7 @@ I’m unable to relocate or travel outside the SF bay area.
 #### [16-16] Consultant, ZGlue Inc. 
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal
 
-#### [15-16] Data Science/Machine Learning/Programming Student - See courses below
+#### [15-16] [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
 
 #### [13-14] Qualcomm Technologies, Senior Staff Engineer
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal and low power verification using Cadence LEC/CLP tools. Silicon success.
