@@ -4,5 +4,5 @@ title: contact
 permalink: /contact/
 ---
 
-I'm reachable at [gurmeetsbox dash learn at yahoo dot com]
+I can be reached at [gurmeetsbox dash learn at yahoo dot com]
 
