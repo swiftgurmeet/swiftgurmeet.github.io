@@ -90,11 +90,14 @@ I’m unable to relocate or travel outside the SF bay area.
 
 #### [12/2006]  Introduction to Digital Signal Processing Course, UC Berkeley, A Grade
 
-#### [1989-93]  M.Engg, Electrical Comm, Indian Institute of Science. First class with distinction. Alumni medal, best student, 1990-93
+#### [1989-93]  M.Engg, [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. First class with distinction. Alumni medal, best student, 1990-93
 
-#### [1986-89]  B.Sc., Physics, Delhi University. First class with distinction. Gold medal for best student, 1987/88/89.
+#### [1986-89]  B.Sc., Physics, [Delhi University][delhi-university]. First class with distinction. Gold medal for best student, 1987/88/89.
 
+[iisc]: http://www.iisc.ac.in
+[delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
+[iisc-ece]: http://ece.iisc.ernet.in
 [coursera-scala1]: https://www.coursera.org/account/accomplishments/certificate/AWT74ZHBS7FF
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/BWUZ2YPXS7JF
 [coursera-ml-bigdata]: https://www.coursera.org/account/accomplishments/certificate/56KMVVKJM2AS
