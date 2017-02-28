@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Summary
 
-I received my Masters of Engineering from India's best engineering institution and was the best student in my class for all 7 years of college. I have over 23 years of leading edge experience including IC physical implementation, flow development and methodology, both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge including programming/circuits/eda tools/systems, and ingenuity. 
+I received my Masters of Engineering from [India's best engineering institution][iisc-wiki] and was the best student in my class for all 7 years of college. I have over 23 years of leading edge experience including IC physical implementation, flow development and methodology, both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge including programming/circuits/eda tools/systems, and ingenuity. 
 
 Note: I’m unable to relocate or travel outside the SF bay area.
 
@@ -93,3 +93,5 @@ Note: I’m unable to relocate or travel outside the SF bay area.
 #### [1989-93]  M.Engg, Electrical Comm, Indian Institute of Science. First class with distinction. Alumni medal, best student, 1990-93
 
 #### [1986-89]  B.Sc., Physics, Delhi University. First class with distinction. Gold medal for best student, 1987/88/89.
+
+[iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
