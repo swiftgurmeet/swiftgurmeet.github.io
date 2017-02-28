@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Summary
 
-I was the best student in my class at [India's best engineering institution][iisc-wiki] and more. I have over 23 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge including programming/circuits/eda tools/systems, and ingenuity. 
+I was the best student in my class at [India's best engineering institution][iisc-wiki] and more. I have over 23 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
 
 Note: I’m unable to relocate or travel outside the SF bay area.
 
