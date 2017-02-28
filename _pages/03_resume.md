@@ -66,24 +66,24 @@ I’m unable to relocate or travel outside the SF bay area.
 ## Education:
 
 #### [2015-2016]: Coursera Courses
-1. [Machine Learning][coursera-ml]
-1. [Machine Learning With Big Data][coursera-ml-bigdata]
-1. [Practical Machine Learning][coursera-pml]
-1. [R Programming][coursera-r]
-1. [Statistical Inference][coursera-statinf]
-1. [Reproducible Research][coursera-repro]
-1. [Regression Models][coursera-regress]
-1. [Functional Programming Principles in Scala][coursera-scala1]
+1. Machine Learning
+1. Machine Learning With Big Data
+1. Practical Machine Learning
+1. R Programming
+1. Statistical Inference
+1. Reproducible Research
+1. Regression Models
+1. Functional Programming Principles in Scala
 1. Object Oriented Programming in Java
-1. [Financial Markets][coursera-finan]
-1. [Graph Analytics for Big Data][coursera-graph]
-1. [Hadoop Platform and Application Framework][coursera-hadoop]
-1. [The Data Scientist’s Toolbox][coursera-datool]
-1. [Getting and Cleaning Data][coursera-getclean]
-1. [Exploratory Data Analysis][coursera-explordat]
-1. [Developing Data Products][coursera-ddp]
-1. [Introduction to Big Data ][coursera-bigdata]
-1. [Introduction to Big Data Analytics][coursera-biganl]
+1. Financial Markets
+1. Graph Analytics for Big Data
+1. Hadoop Platform and Application Framework
+1. The Data Scientist’s Toolbox
+1. Getting and Cleaning Data
+1. Exploratory Data Analysis
+1. Developing Data Products
+1. Introduction to Big Data 
+1. Introduction to Big Data Analytics
 1. HTML, CSS and Javascript for Web Developers
 1. Coursera Mentor Community and Training Course
 
