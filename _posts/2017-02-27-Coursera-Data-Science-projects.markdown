@@ -5,7 +5,7 @@ date:   2017-02-27 09:50:00
 categories: main
 ---
 
-### Coursera Data Science" specialization Projects
+### Course Projects
 
 * ["Design of Data Products" Presentation][slidify]
 * ["Design of Data Products" Shiny Application][shinyapp]
