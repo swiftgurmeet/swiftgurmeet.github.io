@@ -233,7 +233,7 @@ ul.posts span {
 }
 
 nav a { 
-   color: #DDCC00;
+   color: #BBAA00;
    padding:10px;
 }
 
@@ -243,7 +243,7 @@ nav a {
         height: 16px;
         vertical-align: middle;
         path {
-            fill: #888888;
+            fill: #666666;
         }
     }
 }
