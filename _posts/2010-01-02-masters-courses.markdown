@@ -43,4 +43,3 @@ categories: main
 1. Communication Electronics
 1. Dissertation Project 
 
-<img id="post-image" src="/images/degree.jpg">
