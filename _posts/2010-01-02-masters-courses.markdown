@@ -5,7 +5,6 @@ date:   2010-01-02 19:20:00
 categories: main
 ---
 
-
 #### All the courses I did during my master's program:
 
 1. Introduction To Electronics
@@ -42,4 +41,6 @@ categories: main
 1. Microwave Communication
 1. Switching Theory and VLSI Design
 1. Communication Electronics
-1. Dissertation Project
+1. Dissertation Project 
+
+<img id="post-image" src="/images/degree.jpg">
