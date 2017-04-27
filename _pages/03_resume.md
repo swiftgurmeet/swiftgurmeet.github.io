@@ -13,13 +13,15 @@ Sunnyvale, CA 94087
 
 ## Summary
 
-I have over 23 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. Earlier, I was the best student in my class during  all seven years of college including four at [India's best engineering institution][iisc-wiki]. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
+I have over 23 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. Earlier, I was the best student in my class for all seven years of college including four at [India's best engineering institution][iisc-wiki]. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
 
 I’m unable to relocate or travel outside the SF bay area.
 
 ## Professional Experience
 
-#### [16-16] Consultant, ZGlue Inc. 
+#### [16-17] Consultant, ZGlue Inc. 
+* Physical design methodology and netlist-to-gds flow development using Cadence toolset. 
+* Mixed-signal custom CAD support
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal
 
 #### [15-16] [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
