@@ -65,7 +65,9 @@ I’m unable to relocate or travel outside the SF bay area.
 * Circuit Design of 32kx8, 128kx8 SRAMs. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. Silicon success.
 
 
-## Education: I was the best student in my class for all seven years of college level education, including four at [India's best engineering institution][iisc-wiki]. 
+## Education: 
+
+I was the best student in my class for all seven years of college level education, including four at [India's best engineering institution][iisc-wiki]. 
 
 #### [2015-2016]: Coursera Courses
 
