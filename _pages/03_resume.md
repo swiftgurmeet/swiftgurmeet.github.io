@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Summary
 
-I have over 23 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. Earlier, I was the best student in my class for all seven years of college including four at [India's best engineering institution][iisc-wiki]. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
+I have over 25 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
 
 I’m unable to relocate or travel outside the SF bay area.
 
@@ -65,7 +65,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Circuit Design of 32kx8, 128kx8 SRAMs. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. Silicon success.
 
 
-## Education:
+## Education: I was the best student in my class for all seven years of college level education, including four at [India's best engineering institution][iisc-wiki]. 
 
 #### [2015-2016]: Coursera Courses
 
