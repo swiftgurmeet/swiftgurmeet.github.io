@@ -20,7 +20,7 @@ I’m unable to relocate or travel outside the SF bay area.
 ## Professional Experience
 
 #### [16-17] Consultant, ZGlue Inc. 
-* Physical design methodology and netlist-to-gds flow development using Cadence toolset. 
+* Physical design methodology and netlist-to-gds flow development and implementation using Cadence toolset. 
 * Mixed-signal custom CAD support
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal
 
