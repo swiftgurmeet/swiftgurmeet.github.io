@@ -27,6 +27,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 #### [15-16] [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
+[Kaggle Participant][kaggleprofile]
 
 #### [13-14] Qualcomm Technologies, Senior Staff Engineer
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal and low power verification using Cadence LEC/CLP tools. [Silicon success (WCD9335).][wcd9335]
@@ -114,6 +115,7 @@ I was the best student in my class for all seven years of college level educatio
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
 [bsccourses]: {% post_url 2010-01-01-physics-courses %}
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
+[kaggleprofile]: https://www.kaggle.com/gary347
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
