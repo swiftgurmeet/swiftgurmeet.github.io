@@ -121,7 +121,7 @@ I was the best student in my class for all seven years of college level educatio
 [kaggleprofile]: https://www.kaggle.com/gary347
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
-[iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
+[iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science#Rankings
 [iisc-ece]: http://ece.iisc.ernet.in
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/BWUZ2YPXS7JF
 [coursera-ml-bigdata]: https://www.coursera.org/account/accomplishments/certificate/56KMVVKJM2AS
