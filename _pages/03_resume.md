@@ -97,7 +97,7 @@ I was the best student in my class for all seven years of college level educatio
 
 #### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. First class with distinction. Alumni medal, best student, 1990-93
 
-#### [1986-89]  [B.Sc.][bsccourses], [Physics][physicsdept], [Delhi University][delhi-university]. First class with distinction. Gold medal, best student, 1987/88/89.
+#### [1986-89]  [B.Sc.][bsccourses], Physics, [Delhi University][delhi-university]. First class with distinction. Gold medal, best student, 1987/88/89.
 
 [wcd9335]: https://www.qualcomm.com/products/features/aqstic
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
@@ -114,7 +114,6 @@ I was the best student in my class for all seven years of college level educatio
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
 [bsccourses]: {% post_url 2010-01-01-physics-courses %}
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
-[physicsdept]: http://www.deshbandhucollege.ac.in/departments/13/physics/
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
