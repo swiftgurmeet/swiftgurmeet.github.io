@@ -37,7 +37,7 @@ I’m unable to relocate or travel outside the SF bay area.
 #### [11-12] Sandforce Inc., Principal Engineer
 * Developed a 40 nm automated and optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
-* Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean.
+* Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
 #### [08-11] Contractor @(Qualcomm, Sandisk)
@@ -47,7 +47,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * 65nm WiFi ASIC: Full chip EM/IR signoff using Apache-Redhawk. Silicon Success.
 
 #### [06-08] Teranetics, Principal Engineer
-* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using x-route. Automate implementation flow. Automate timing, formal and physical verification flows. Power estimation; power reduction using special cells. Silicon Success.
+* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using x-route. Automate implementation flow. Automate timing, formal and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 #### [04-06] Airgo Networks, Physical Design Manager
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. Silicon success.
@@ -100,6 +100,8 @@ I was the best student in my class for all seven years of college level educatio
 #### [1986-89]  B.Sc., Physics, [Delhi University][delhi-university]. First class with distinction. Gold medal, best student, 1987/88/89.
 
 [wcd9335]: https://www.qualcomm.com/products/features/aqstic
+[sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
+[tn1010]: https://news.thomasnet.com/companystory/teranetics-announces-production-availability-of-industry-s-only-single-chip-ethernet-10gbase-t-phy-519154
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
