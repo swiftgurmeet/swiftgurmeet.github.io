@@ -57,7 +57,7 @@ I’m unable to relocate or travel outside the SF bay area.
 
 #### [99-01] Sun Microsystems, MTS
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
-* 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. Silicon success.
+* 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. [Silicon success.][ultrasparc3]
 
 #### [97-99] Intel Corporation, Design Engineer
 * 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. Silicon success.
@@ -107,6 +107,7 @@ I was the best student in my class for all seven years of college level educatio
 [agn3]: https://www.premisesnetworks.com/doc/airgo-demonstrates-unprecedented-next-generat-0001
 [efficeon1]: https://www.extremetech.com/computing/55146-transmeta-unveils-the-efficeon
 [efficeon1]: https://www.anandtech.com/show/1585/13
+[ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
