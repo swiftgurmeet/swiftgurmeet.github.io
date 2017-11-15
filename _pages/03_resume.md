@@ -112,8 +112,8 @@ I was the best student in my class for all seven years of college level educatio
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [zglue]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
-[bsccourses]: {{ site.baseurl }}{% post_url 2010-01-01-physics-courses.markdown %}
-[mecourses]: {{ site.baseurl }}{% post_url 2010-01-02-masters-courses.markdown %}
+[bsccourses]: {% post_url 2010-01-01-physics-courses %}
+[mecourses]: {% post_url 2010-01-02-masters-courses %}
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
