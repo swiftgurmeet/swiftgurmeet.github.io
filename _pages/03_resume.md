@@ -24,7 +24,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification.
 * Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
 * Mixed-signal custom CAD support including SKILL programming
-* Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal
+* Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 #### [15-16] [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
 
@@ -110,6 +110,7 @@ I was the best student in my class for all seven years of college level educatio
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
+[zglue]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
