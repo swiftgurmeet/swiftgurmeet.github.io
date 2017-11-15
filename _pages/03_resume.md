@@ -20,8 +20,10 @@ I’m unable to relocate or travel outside the SF bay area.
 ## Professional Experience
 
 #### [16-17] Consultant, ZGlue Inc. 
-* Physical design methodology and netlist-to-gds flow development and implementation using Cadence toolset. 
-* Mixed-signal custom CAD support
+* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification and logical equivalence (lec) flows.
+* Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification.
+* Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
+* Mixed-signal custom CAD support including SKILL programming
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal
 
 #### [15-16] [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
