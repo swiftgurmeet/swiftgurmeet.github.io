@@ -47,7 +47,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * 65nm WiFi ASIC: Full chip EM/IR signoff using Apache-Redhawk. [Silicon Success.][wcn1320]
 
 #### [06-08] Teranetics, Principal Engineer
-* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation flow. Automate timing, formal and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
+* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 #### [04-06] Airgo Networks, Physical Design Manager
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
