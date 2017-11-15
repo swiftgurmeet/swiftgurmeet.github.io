@@ -41,5 +41,5 @@ categories: main
 1. Microwave Communication
 1. Switching Theory and VLSI Design
 1. Communication Electronics
-1. Dissertation Project 
+1. Dissertation Project (Layout Compaction of Analog ICs)
 
