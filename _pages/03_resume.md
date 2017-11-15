@@ -60,8 +60,8 @@ I’m unable to relocate or travel outside the SF bay area.
 * 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. [Silicon success.][ultrasparc3]
 
 #### [97-99] Intel Corporation, Design Engineer
-* 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. Silicon success.
-* 600 MHz Pentium III CPU : GTL I/O circuit design. Silicon success.
+* 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
+* 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
 
 #### [94-97] STMicroelectronics, Design Engineer
 * Circuit Design of 32kx8, 128kx8 SRAMs. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. Silicon success.
@@ -108,6 +108,8 @@ I was the best student in my class for all seven years of college level educatio
 [efficeon1]: https://www.extremetech.com/computing/55146-transmeta-unveils-the-efficeon
 [efficeon2]: https://www.anandtech.com/show/1585/13
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
+[cascades]: https://ark.intel.com/products/codename/1896/Cascades
+[katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
