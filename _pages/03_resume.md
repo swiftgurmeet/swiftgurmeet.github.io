@@ -53,7 +53,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
 
 #### [01-04] Transmeta, SMTS
-* 1.2/1.8GHz Efficeon CPUs: Implement I/O  blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success.
+* 1.2/1.8GHz Efficeon CPUs: Implement I/O  blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success.[1][efficeon1] [2][efficeon2]
 
 #### [99-01] Sun Microsystems, MTS
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
@@ -105,6 +105,8 @@ I was the best student in my class for all seven years of college level educatio
 [wcn1312]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-introduces-single-chip-80211n-wireless-lan-solution-handsets-and
 [wcn1320]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-enables-whole-house-media-streaming-industrys-first-4x4-mimo
 [agn3]: https://www.premisesnetworks.com/doc/airgo-demonstrates-unprecedented-next-generat-0001
+[efficeon1]: https://www.extremetech.com/computing/55146-transmeta-unveils-the-efficeon
+[efficeon1]: https://www.anandtech.com/show/1585/13
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science
