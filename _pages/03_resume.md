@@ -35,7 +35,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal and low power verification using Cadence LEC/CLP tools. [Silicon success (WCD9335).][wcd9335]
 
 #### [12-13] Cadence Design Systems, Staff Application Engineer
-* Developed rtl2gds flow (14nm/finFET) using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. Implemented a 28nm DDR-PHY IP for tapeout.
+* Developed complete,automated rtl2gds flow (14nm/finFET) using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. Implemented a 28nm DDR-PHY IP for tapeout.
 
 #### [11-12] Sandforce Inc., Principal Engineer
 * Developed a 40 nm automated and optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
