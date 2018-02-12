@@ -56,7 +56,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
 
 #### [01-04] Transmeta, SMTS
-* 1.2/1.8GHz Efficeon CPUs: Implement I/O  blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success.[#1][efficeon1] and [#2][efficeon2] 
+* 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport  blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success.[#1][efficeon1] and [#2][efficeon2] 
 
 #### [99-01] Sun Microsystems, MTS
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
