@@ -118,7 +118,7 @@ I was the best student in my class for all seven years of college level educatio
 [bsccourses]: {% post_url 2010-01-01-physics-courses %}
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
 [medegree]: {{ site.url }}/images/degree.jpg
-[aluminmedal]: {{ site.url }}/images/AlumniMedal.jpg
+[alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
 [locu]: {% post_url 2017-03-02-Locu-ios-sample-app %}
 [kaggleprofile]: https://www.kaggle.com/gary347
 [iisc]: http://www.iisc.ac.in
