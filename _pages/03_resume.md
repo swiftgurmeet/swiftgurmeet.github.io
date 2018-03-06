@@ -96,7 +96,7 @@ I was the best student in my class for all seven years of college level educatio
 1. [Introduction to Big Data Analytics][coursera-biganl]
 1. HTML, CSS and Javascript for Web Developers	
 	
-#### [12/2006]  Introduction to Digital Signal Processing Course, UC Berkeley, A Grade
+#### [12/2006]  [Introduction to Digital Signal Processing Course, UC Berkeley, A Grade][dsp]
 
 #### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal][alumnimedal], best student, 1990-93
 
@@ -119,6 +119,7 @@ I was the best student in my class for all seven years of college level educatio
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
 [medegree]: {{ site.url }}/images/degree.jpg
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
+[dsp]: {{ site.url }}/images/dsp.jpg
 [locu]: {% post_url 2017-03-02-Locu-ios-sample-app %}
 [kaggleprofile]: https://www.kaggle.com/gary347
 [iisc]: http://www.iisc.ac.in
