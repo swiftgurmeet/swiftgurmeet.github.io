@@ -98,7 +98,7 @@ I was the best student in my class for all seven years of college level educatio
 	
 #### [12/2006]  [Introduction to Digital Signal Processing Course, UC Berkeley, A Grade][dsp]
 
-#### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal][alumnimedal], best student, 1990-93
+#### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal][alumnimedal], Best Student, 1990-93
 
 #### [1986-89]  [B.Sc.][bsccourses], Physics, [Delhi University][delhi-university]. First class with distinction, Gold medal, best student: 1987/88/89.
 
