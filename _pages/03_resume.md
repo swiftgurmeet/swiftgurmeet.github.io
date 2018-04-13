@@ -102,7 +102,7 @@ I was the best student in my class for all seven years of college level educatio
 
 #### [1986-89]  [B.Sc.][bsccourses], Physics, [Delhi University][delhi-university]. First class with distinction, Gold medal, Best Student: 1987/88/89.
 
-[wcd9335]: https://www.qualcomm.com/products/features/aqstic
+[wcd9335]: https://www.qualcomm.com/products/wcd9335
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
 [tn1010]: https://news.thomasnet.com/companystory/teranetics-announces-production-availability-of-industry-s-only-single-chip-ethernet-10gbase-t-phy-519154
 [wcn1312]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-introduces-single-chip-80211n-wireless-lan-solution-handsets-and
