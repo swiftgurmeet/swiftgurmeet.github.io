@@ -67,7 +67,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
 
 #### [94-97] STMicroelectronics, Design Engineer
-* Circuit Design of 32kx8, 128kx8 SRAMs. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. Silicon success.
+* Circuit Design of 32kx8, 128kx8 SRAMs [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
 
 
 ## Education: 
@@ -118,6 +118,8 @@ I was the best student in my class for all seven years of college level educatio
 [bsccourses]: {% post_url 2010-01-01-physics-courses %}
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
 [medegree]: {{ site.url }}/images/degree.jpg
+[stm62128image]: {{ site.url }}/images/stm62128.jpg
+[rtcimage]: {{ site.url }}/images/rtc.jpg
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
 [dsp]: {{ site.url }}/images/dsp.jpg
 [locu]: {% post_url 2017-03-02-Locu-ios-sample-app %}
