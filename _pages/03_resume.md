@@ -67,7 +67,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
 
 #### [94-97] STMicroelectronics, Design Engineer
-* Circuit Design of 32kx8, 128kx8 SRAMs [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
+* Circuit Design of 32kx8, 128kx8 SRAMs. [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
 
 
 ## Education: 
