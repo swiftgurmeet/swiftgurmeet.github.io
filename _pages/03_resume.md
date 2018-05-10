@@ -118,8 +118,8 @@ I was the best student in my class for all seven years of college level educatio
 [bsccourses]: {% post_url 2010-01-01-physics-courses %}
 [mecourses]: {% post_url 2010-01-02-masters-courses %}
 [medegree]: {{ site.url }}/images/degree.jpg
-[stm62128image]: {{ site.url }}/images/stm62128.jpg
-[rtcimage]: {{ site.url }}/images/rtc.jpg
+[stm62128image]: {{ site.url }}/images/stm62128.png
+[rtcimage]: {{ site.url }}/images/rtc.png
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
 [dsp]: {{ site.url }}/images/dsp.jpg
 [locu]: {% post_url 2017-03-02-Locu-ios-sample-app %}
