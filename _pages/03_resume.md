@@ -20,7 +20,7 @@ I’m unable to relocate or travel outside the SF bay area.
 ## Professional Experience
 
 #### [16-17] Consultant, ZGlue Inc. 
-* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification and logical equivalence (lec) flows.
+* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
 * Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification.
 * Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
 * Mixed-signal custom CAD support including SKILL programming
@@ -43,9 +43,10 @@ I’m unable to relocate or travel outside the SF bay area.
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
-#### [08-11] Contractor @(Qualcomm, Sandisk)
+#### [08-11] Contractor,Engineer @Multiple
 * Setup 40nm Cadence based, automated, tapeout ready, block level implementation flow.
 * Hierarchical physical implementation flow in 65nm technology using Cadence.
+* Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
 * 65nm WiFi ASIC: Implementation of large block using Magma. [Silicon Success.][wcn1312]
 * 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
 
@@ -105,6 +106,7 @@ I was the best student in my class for all seven years of college level educatio
 [wcd9335]: https://www.qualcomm.com/products/wcd9335
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
 [tn1010]: https://news.thomasnet.com/companystory/teranetics-announces-production-availability-of-industry-s-only-single-chip-ethernet-10gbase-t-phy-519154
+[yahara]: https://www.businesswire.com/news/home/20090323005532/en/AMCC-Announces-Yahara-Family-10GbE-FramerMapperPHY-Devices
 [wcn1312]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-introduces-single-chip-80211n-wireless-lan-solution-handsets-and
 [wcn1320]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-enables-whole-house-media-streaming-industrys-first-4x4-mimo
 [agn3]: https://www.premisesnetworks.com/doc/airgo-demonstrates-unprecedented-next-generat-0001
