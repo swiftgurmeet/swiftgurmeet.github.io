@@ -78,7 +78,7 @@ I was the best student in my class for all seven years of college level educatio
 
 #### [2015-2016]: Coursera Courses
 
-1. [Neural Networks and Deep Learning][neural]
+1. [Neural Networks and Deep Learning][coursera-neural]
 1. [Machine Learning][coursera-ml]
 1. [Machine Learning With Big Data][coursera-ml-bigdata]
 1. [Practical Machine Learning][coursera-pml]
