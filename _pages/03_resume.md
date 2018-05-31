@@ -28,7 +28,7 @@ I’m unable to relocate or travel outside the SF bay area.
 
 #### [15-16] Student
 * [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
-* [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; currently top 2% in a third ongoing one.
+* [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; currently top 5% in a [third ongoing one.][homecredit-leaderboard]
 
 * [Swift programmer][locu]
 
@@ -150,4 +150,5 @@ I was the best student in my class for all seven years of college level educatio
 [coursera-bigdata]: https://www.coursera.org/account/accomplishments/certificate/S9PFKEJ2SPGF
 [coursera-biganl]: https://www.coursera.org/account/accomplishments/certificate/A4ZZGWTGWHHL
 [coursera-neural]: https://www.coursera.org/account/accomplishments/certificate/FE426LPM9WMV
+[homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
 
