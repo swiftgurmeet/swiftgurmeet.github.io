@@ -1,4 +1,13 @@
 <section class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.tagline }}</h2>
+    <div style="float:right;">
+    <nav>
+    {% for page in site.pages %}
+      {% if page.page-category == "indexed" %}
+         {% if page.title %}
+             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a>
+         {% endif %}
+      {% endif %}
+    {% endfor %}
+    </nav>
+  </div>
 </section>
