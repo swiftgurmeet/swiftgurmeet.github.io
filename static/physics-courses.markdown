@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Testing"
 date:   2010-01-01 19:20:00
 categories: static
 ---
