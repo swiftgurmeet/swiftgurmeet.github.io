@@ -2,8 +2,10 @@
     <div style="float:right;">
     <nav>
     {% for page in site.pages %}
-      {% if page.title %}
-          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a>
+      {% if page.page-category == "indexed" %}
+         {% if page.title %}
+             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a>
+         {% endif %}
       {% endif %}
     {% endfor %}
     </nav>

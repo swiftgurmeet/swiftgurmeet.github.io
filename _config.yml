@@ -15,6 +15,8 @@ baseurl: ""
 github_username: swiftgurmeet
 linkedin_username: gurmeet
 
+category-list: [posts, pages, images, static]
+
 #Static pages live here e.g. about.md
 include: ['_pages']
 
