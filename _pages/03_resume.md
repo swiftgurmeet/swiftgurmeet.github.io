@@ -30,7 +30,6 @@ I’m unable to relocate or travel outside the SF bay area.
 #### [15-16] Student
 * [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
 * [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; currently top 5% in a [third ongoing one.][homecredit-leaderboard]
-
 * [Swift programmer][locu]
 
 #### [13-14] Qualcomm Technologies, Senior Staff Engineer
