@@ -16,8 +16,6 @@ Sunnyvale, CA 94087
 
 I have over 25 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
 
-I’m unable to relocate or travel outside the SF bay area.
-
 ## Professional Experience
 
 #### [16-17] Consultant, ZGlue Inc. 
