@@ -31,7 +31,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * [Swift programmer][locu]
 
 #### [13-14] Qualcomm Technologies, Senior Staff Engineer
-* Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  [Silicon success (WCD9335).][wcd9335]
+* Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
 #### [12-13] Cadence Design Systems, Staff Application Engineer
 * Developed complete,automated rtl2gds flow (14nm/finFET) using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. Implemented a 28nm DDR-PHY IP for tapeout.
