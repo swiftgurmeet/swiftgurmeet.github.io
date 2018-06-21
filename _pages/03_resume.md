@@ -81,6 +81,7 @@ I was the best student in my class for all seven years of college level educatio
 1. [Neural Networks and Deep Learning][coursera-neural]
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
 1. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization][coursera-dl-hyperparameters]
+1. [Convolutional Neural Networks][coursera-dl-cnn]
 1. [Machine Learning][coursera-ml]
 1. [Machine Learning With Big Data][coursera-ml-bigdata]
 1. [Practical Machine Learning][coursera-pml]
@@ -154,5 +155,6 @@ I was the best student in my class for all seven years of college level educatio
 [coursera-neural]: https://www.coursera.org/account/accomplishments/certificate/FE426LPM9WMV
 [coursera-structuring-ml]: https://www.coursera.org/account/accomplishments/certificate/2K7LFUEPWWKQ
 [coursera-dl-hyperparameters]: https://www.coursera.org/account/accomplishments/certificate/2K7LFUEPWWKQ
+[coursera-dl-cnn]: https://www.coursera.org/account/accomplishments/verify/8F95RC8VK5GX
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
 
