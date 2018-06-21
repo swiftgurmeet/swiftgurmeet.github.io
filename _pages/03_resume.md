@@ -33,10 +33,10 @@ I have over 25 years of leading edge technical experience both as a leader and a
 #### [13-14] Qualcomm Technologies, Senior Staff Engineer
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
-#### [12-13] Cadence Design Systems, Staff Application Engineer
+#### [12-13] Cadence Design Systems
 * Developed complete,automated rtl2gds flow (14nm/finFET) using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. Implemented a 28nm DDR-PHY IP for tapeout.
 
-#### [11-12] Sandforce Inc., Principal Engineer
+#### [11-12] Sandforce Inc.
 * Developed a 40 nm automated and optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
@@ -49,24 +49,24 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * 65nm WiFi ASIC: Implementation of large block using Magma. [Silicon Success.][wcn1312]
 * 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
 
-#### [06-08] Teranetics, Principal Engineer
+#### [06-08] Teranetics
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
-#### [04-06] Airgo Networks, Physical Design Manager
+#### [04-06] Airgo Networks
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
 
-#### [01-04] Transmeta, SMTS
+#### [01-04] Transmeta
 * 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport PnR blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
 
-#### [99-01] Sun Microsystems, MTS
+#### [99-01] Sun Microsystems
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
 * 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. [Silicon success.][ultrasparc3]
 
-#### [97-99] Intel Corporation, Design Engineer
+#### [97-99] Intel Corporation
 * 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
 * 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
 
-#### [94-97] STMicroelectronics, Design Engineer
+#### [94-97] STMicroelectronics
 * Circuit Design of 32kx8, 128kx8 SRAMs. [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
 
 
