@@ -76,7 +76,7 @@ I’m unable to relocate or travel outside the SF bay area.
 
 I was the best student in my class for all seven years of college level education, including four at [India's best engineering institution][iisc-wiki]. 
 
-#### [2015-2016]: Coursera Courses
+#### [2015-2018]: Coursera Courses
 
 1. [Neural Networks and Deep Learning][coursera-neural]
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
