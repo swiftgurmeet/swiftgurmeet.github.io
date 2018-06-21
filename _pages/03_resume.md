@@ -28,7 +28,7 @@ I’m unable to relocate or travel outside the SF bay area.
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 #### [15-16] Student
-* [Data Science/Machine Learning/Programming Student - See courses below](#2015-2016-coursera-courses)
+* [Data Science/Machine Learning/Programming Student - See courses below](#2015-2018-coursera-courses)
 * [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; also in a [third ongoing one.][homecredit-leaderboard]
 * [Swift programmer][locu]
 
