@@ -18,7 +18,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 
 ## Professional Experience
 
-#### [16-17] Consultant, ZGlue Inc. 
+#### [16-17] ZGlue Inc. 
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
 * Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification.
 * Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
@@ -30,7 +30,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; also in a [third ongoing one.][homecredit-leaderboard]
 * [Swift programmer][locu]
 
-#### [13-14] Qualcomm Technologies, Senior Staff Engineer
+#### [13-14] Qualcomm Technologies
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
 #### [12-13] Cadence Design Systems
