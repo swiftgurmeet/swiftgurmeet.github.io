@@ -42,7 +42,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
-#### [08-11] Contractor,Engineer @Multiple
+#### [08-11] Sandisk, Qualcomm, AMCC
 * Setup 40nm Cadence based, automated, tapeout ready, block level implementation flow.
 * Hierarchical physical implementation flow in 65nm technology using Cadence.
 * Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
@@ -80,6 +80,7 @@ I was the best student in my class for all seven years of college level educatio
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
 1. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization][coursera-dl-hyperparameters]
 1. [Convolutional Neural Networks][coursera-dl-cnn]
+1. [Sequence Models][coursera-dl-seqmodels]
 1. [Machine Learning][coursera-ml]
 1. [Machine Learning With Big Data][coursera-ml-bigdata]
 1. [Practical Machine Learning][coursera-pml]
@@ -154,5 +155,6 @@ I was the best student in my class for all seven years of college level educatio
 [coursera-structuring-ml]: https://www.coursera.org/account/accomplishments/certificate/2K7LFUEPWWKQ
 [coursera-dl-hyperparameters]: https://www.coursera.org/account/accomplishments/certificate/2K7LFUEPWWKQ
 [coursera-dl-cnn]: https://www.coursera.org/account/accomplishments/certificate/8F95RC8VK5GX
+[coursera-dl-seqmodels]: https://www.coursera.org/account/accomplishments/certificate/84LJ2QRKTH66
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
 
