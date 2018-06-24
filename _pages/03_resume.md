@@ -77,13 +77,13 @@ I was the best student in my class for all seven years of college level educatio
 #### [2015-2018]: Coursera Courses
 
 1. [Neural Networks and Deep Learning][coursera-neural]
+1. [Machine Learning][coursera-ml]
+1. [Machine Learning With Big Data][coursera-ml-bigdata]
+1. [Practical Machine Learning][coursera-pml]
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
 1. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization][coursera-dl-hyperparameters]
 1. [Convolutional Neural Networks][coursera-dl-cnn]
 1. [Sequence Models][coursera-dl-seqmodels]
-1. [Machine Learning][coursera-ml]
-1. [Machine Learning With Big Data][coursera-ml-bigdata]
-1. [Practical Machine Learning][coursera-pml]
 1. [R Programming][coursera-r]
 1. [Statistical Inference][coursera-statinf]
 1. [Reproducible Research][coursera-repro]
