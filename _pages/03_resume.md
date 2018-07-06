@@ -5,7 +5,6 @@ permalink: /resume/
 page-category: indexed
 ---
 
-
 <pre id="address">
 Gurmeet Singh
 Sunnyvale, CA 94087
