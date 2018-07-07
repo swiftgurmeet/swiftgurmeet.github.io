@@ -20,7 +20,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 #### [2015-present] Machine Learning Professional
 * [Data Science/Machine Learning/Programming Student - See courses below](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; also in a third ongoing one.
-* Simple projects using CNN, RNNs, GBMs.
+* CNN, RNNs, GBMs. Python, R. Tensorflow, Keras.
 * [Swift programming][locu]
 
 #### [2016-17] ZGlue Inc. 
