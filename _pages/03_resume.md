@@ -21,7 +21,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * [Data Science/Machine Learning/Programming Student - See courses below](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]: Ranked top 10% and 12% in two competitions; also in a third ongoing one.
 * CNN, RNNs, GBMs. Python, R. Tensorflow, Keras.
-* [Swift programming][locu]
+* Swift programming
 
 #### [2016-17] Consultant, ZGlue Inc. 
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
