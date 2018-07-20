@@ -26,3 +26,5 @@ gems:
 
 #Others
 markdown: kramdown
+
+google_analytics: [UA-122692016-1]
