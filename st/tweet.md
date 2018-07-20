@@ -1,7 +1,6 @@
 ---
 layout: default
 title: tweet
-page-category: indexed
 ---
 
 Here start:
