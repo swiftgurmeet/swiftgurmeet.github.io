@@ -120,8 +120,8 @@ I was the best student in my class for all seven years of college level educatio
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [zglue]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
-[bsccourses]: {{ site.url }}/static/physics-courses
-[mecourses]: {{ site.url  }}/static/masters-courses
+[bsccourses]: {{ site.url }}/st/physics-courses
+[mecourses]: {{ site.url  }}/st/masters-courses
 [medegree]: {{ site.url }}/images/degree.jpg
 [stm62128image]: {{ site.url }}/images/stm62128.png
 [rtcimage]: {{ site.url }}/images/rtc.png
