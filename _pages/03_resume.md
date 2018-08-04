@@ -156,4 +156,4 @@ I was the best student in my class for all seven years of college level educatio
 [coursera-dl-cnn]: https://www.coursera.org/account/accomplishments/certificate/8F95RC8VK5GX
 [coursera-dl-seqmodels]: https://www.coursera.org/account/accomplishments/certificate/84LJ2QRKTH66
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
-
+ 
