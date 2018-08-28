@@ -22,7 +22,7 @@ I started attending the premier Indian Institute of Science in Bangalore for a m
 
 ## The work years
 
-I mostly worked on CMOS circuit design and ASIC physical design. I contributed to many products that successfully made it to the market. These included fast SRAM memories, microprocessors (Intel Pentium III, Sun UltraSparc III, Transmeta Efficeon) and pioneering ASICs (MiMo Wifi, 10GBase-T Phy, SSD PCIE controller, Active Silicon Interposer). See more on my resume. 
+I mostly worked on CMOS circuit design and ASIC physical design. I contributed to many products that successfully made it to the market. These included fast SRAM memories, microprocessors (Intel Pentium III, Sun UltraSparc III, Transmeta Efficeon) and pioneering ASICs (MiMo Wifi, 10GBase-T Phy, SSD PCIE controller, Active Silicon Interposer). [See more on my resume.][resume]
 
 ## Machine Learning
 
@@ -30,3 +30,4 @@ One day while browsing coursera.com, not sure what I clicked, I landed on a scre
 
 [radio-sweden-jingle]: https://www.youtube.com/watch?v=_QhzQYKFOlU
 [crystal-radio-image]: {{ site.url }}/images/crystal-radio.jpg
+[resume]: {{ site.url }}/resume/
