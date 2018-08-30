@@ -31,8 +31,8 @@ One day while browsing coursera.com, not sure what I clicked, I landed on a scre
 [radio-sweden-jingle]: https://www.youtube.com/watch?v=_QhzQYKFOlU
 [resume]: {{ site.url }}/resume/
 [crystal-radio-image]: {{ site.url }}/images/crystal-radio.jpg
-[qsl-radio-japan-back]: {{ site.url }}/images/radio-japan-back.png
-[qsl-radio-japan-front]: {{ site.url }}/images/radio-japan-front.png
-[qsl-radio-mediterranean-back]: {{ site.url }}/images/radio-mediterranean-back.png
-[qsl-radio-mediterranean-front]: {{ site.url }}/images/radio-mediterranean-front.png
+[qsl-radio-japan-back]: {{ site.url }}/qsl/radio-japan-back.png
+[qsl-radio-japan-front]: {{ site.url }}/qsl/radio-japan-front.png
+[qsl-radio-mediterranean-back]: {{ site.url }}/qsl/radio-mediterranean-back.png
+[qsl-radio-mediterranean-front]: {{ site.url }}/qsl/radio-mediterranean-front.png
 
