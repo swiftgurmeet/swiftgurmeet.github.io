@@ -39,7 +39,7 @@ One day while browsing coursera.com, not sure what I clicked, I landed on a scre
 [qsl-radio-mediterranean-back]: {{ site.url }}/qsl/radio-mediterranean-back.png
 [qsl-radio-mediterranean-front]: {{ site.url }}/qsl/radio-mediterranean-front.png
 [qsl-radio-luxembourg-back]: {{ site.url }}/qsl/radio-luxembourg-back.png
-[qsl-radio-luxembourg-front]: {{ site.url }}/qsl/radio-luxembourg-front.png
+[qsl-radio-luxembourg-front]: {{ site.url }}/qsl/radio-luxembourg-front.jpg
 [pop-mech-cover-june-67]: {{ site.url }}/images/pop-mech-cover-06-1967.jpg
 [pop-mech-1966-us-af]: {{ site.url }}/images/pop-mech-1966-us-af.jpg
 [pop-mech-1967-bed]: {{ site.url }}/images/pop-mech-1967-bed.jpg
