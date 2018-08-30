@@ -34,5 +34,5 @@ One day while browsing coursera.com, not sure what I clicked, I landed on a scre
 [qsl-radio-japan-back]: {{ site.url }}/images/radio-japan-back.png
 [qsl-radio-japan-front]: {{ site.url }}/images/radio-japan-front.png
 [qsl-radio-mediterranean-back]: {{ site.url }}/images/radio-mediterranean-back.png
-[qsl-radio-mediterranean-front]: {{ site.url }}/images/radio-mediterranean-back.png
+[qsl-radio-mediterranean-front]: {{ site.url }}/images/radio-mediterranean-front.png
 
