@@ -38,3 +38,5 @@ One day while browsing coursera.com, not sure what I clicked, I landed on a scre
 [qsl-radio-japan-front]: {{ site.url }}/qsl/radio-japan-front.png
 [qsl-radio-mediterranean-back]: {{ site.url }}/qsl/radio-mediterranean-back.png
 [qsl-radio-mediterranean-front]: {{ site.url }}/qsl/radio-mediterranean-front.png
+[qsl-radio-luxembourg-back]: {{ site.url }}/qsl/radio-luxembourg-back.png
+[qsl-radio-luxembourg-front]: {{ site.url }}/qsl/radio-luxembourg-front.png
