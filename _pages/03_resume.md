@@ -17,7 +17,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 
 ## Professional Experience
 
-#### [2014-present] Machine Learning Professional
+#### [2014-present] Machine Learning Stuff
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, RNNs, GBMs. 
