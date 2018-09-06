@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: personal
+permalink: /personal/
 ---
 
 ## The high school years
