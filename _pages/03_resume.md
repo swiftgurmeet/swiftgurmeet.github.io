@@ -27,7 +27,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 
 #### [2016-17] Consultant, ZGlue Inc. 
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
-* Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification.
+* Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue-2]
 * Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
 * Mixed-signal custom CAD support including SKILL programming
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
@@ -119,6 +119,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [zglue]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
+[zglue-2]: https://spectrum.ieee.org/view-from-the-valley/semiconductors/design/zglue-aims-to-make-it-cheap-and-easy-to-design-and-manufacture-wearables-and-other-iot-hardware
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
 [bsccourses]: {{ site.url }}/st/physics-courses
 [mecourses]: {{ site.url  }}/st/masters-courses
