@@ -73,8 +73,6 @@ I have over 25 years of leading edge technical experience both as a leader and a
 
 ## Education: 
 
-I was the best student in my class for all seven years of college level education, including four at [India's best engineering institution][iisc-wiki]. 
-
 #### [2015-2018]: Coursera Courses
 
 1. [Neural Networks and Deep Learning][coursera-neural]
