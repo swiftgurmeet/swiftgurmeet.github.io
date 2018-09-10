@@ -52,7 +52,7 @@ I have over 25 years of leading edge technical experience both as a leader and a
 * 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
 
 #### [2006-08] Principal Engineer, Teranetics
-* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
+* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 #### [2004-06] Design Manager, Airgo Networks
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
