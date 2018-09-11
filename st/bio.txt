@@ -1,0 +1,12 @@
+My email address in:
+
+Python: "gurmeet" + "".join(map(lambda x: "mtobpiz.xocsal@abg"[x], [7,4,2,11,1,16,9,8,14,17,0,12,5,13,7,10,2,0]))
+R: Reduce(paste0 , c("gurmeet", c('m','t','o','b','p','i','z','.','x','o','c','s','a','l','@','a','b','g')[c(8,5,3,12,2,17,10,9,15,18,1,13,6,14, 8, 11,3,1)]))
+Scala: "gurmeet" + List(7,4,2,11,1,16,9,8,14,17,0,12,5,13,7,10,2,0).map(x => List('m','t','o','b','p','i','z','.','x','o','c','s','a','l','@','a','b','g')(x)).mkString
+
+My resume in:
+
+Python: "".join(list(map(lambda x: "ustimeftwreg"[x], [1,8,3,6,2,11,0,9,4,10,5,2]))) + ".github.io/resume"
+Tcl: foreach i {1 8 3 6 2 11 0 9 4 10 5 2} { puts -nonewline [lindex [split "u s t i m e f t w r e g"] $i] } ; puts ".github.io/resume"
+R: Reduce(paste0,c(c('u','s','t','i','m','e','f','t','w','r','e','g')[c(2,9,4,7,3,12,1,10,5,11,6,3)],c(".github.io/resume")))
+List(1,8,3,6,2,11,0,9,4,10,5,2).map(x => List('u','s','t','i','m','e','f','t','w','r','e','g')(x)).mkString + ".github.io/resume"
