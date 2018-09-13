@@ -11,13 +11,9 @@ Sunnyvale, CA 94087
 </pre>
 
 
-## Summary
-
-I have over 25 years of leading edge technical experience both as a leader and an individual contributor with a record of highly effective and prolific execution. My strengths include good communication and analytical skills, breadth of knowledge and ingenuity. 
-
 ## Professional Experience
 
-#### [2014-present] Machine Learning Stuff
+#### [2014-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, RNNs, GBMs. 
