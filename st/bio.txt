@@ -9,4 +9,4 @@ My resume in:
 Python: "".join(list(map(lambda x: "ustimeftwreg"[x], [1,8,3,6,2,11,0,9,4,10,5,2]))) + ".github.io/resume"
 Tcl: foreach i {1 8 3 6 2 11 0 9 4 10 5 2} { puts -nonewline [lindex [split "u s t i m e f t w r e g"] $i] } ; puts ".github.io/resume"
 R: Reduce(paste0,c(c('u','s','t','i','m','e','f','t','w','r','e','g')[c(2,9,4,7,3,12,1,10,5,11,6,3)],c(".github.io/resume")))
-List(1,8,3,6,2,11,0,9,4,10,5,2).map(x => List('u','s','t','i','m','e','f','t','w','r','e','g')(x)).mkString + ".github.io/resume"
+Scala: List(1,8,3,6,2,11,0,9,4,10,5,2).map(x => List('u','s','t','i','m','e','f','t','w','r','e','g')(x)).mkString + ".github.io/resume"
