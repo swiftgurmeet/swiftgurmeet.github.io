@@ -81,6 +81,9 @@ Sunnyvale, CA 94087
 1. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization][coursera-dl-hyperparameters]
 1. [Convolutional Neural Networks][coursera-dl-cnn]
 1. [Sequence Models][coursera-dl-seqmodels]
+1. [How Google does Machine Learning][coursera-gcp-googleml]
+1. [Launching into Machine Learning][coursera-gcp-launch]
+1. [Intro to TensorFlow][coursera-gcp-tensor]
 1. [R Programming][coursera-r]
 1. [Statistical Inference][coursera-statinf]
 1. [Reproducible Research][coursera-repro]
@@ -135,6 +138,9 @@ Sunnyvale, CA 94087
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/BWUZ2YPXS7JF
 [coursera-ml-bigdata]: https://www.coursera.org/account/accomplishments/certificate/56KMVVKJM2AS
 [coursera-pml]: https://www.coursera.org/account/accomplishments/certificate/8BXT3T2YRTBB
+[coursera-gcp-googleml]: https://www.coursera.org/account/accomplishments/certificate/GAU7EKPFFHZP
+[coursera-gcp-launch]: https://www.coursera.org/account/accomplishments/certificate/WE2M3B83G45Q
+[coursera-gcp-tensor]: https://www.coursera.org/account/accomplishments/certificate/2F5W59VVUKCK
 [coursera-r]: https://www.coursera.org/account/accomplishments/certificate/FQZC4F2VKQ
 [coursera-statinf]: https://www.coursera.org/account/accomplishments/certificate/U2UYR8VUCY
 [coursera-repro]: https://www.coursera.org/account/accomplishments/certificate/E4Z67X5PMB
@@ -155,4 +161,3 @@ Sunnyvale, CA 94087
 [coursera-dl-cnn]: https://www.coursera.org/account/accomplishments/certificate/8F95RC8VK5GX
 [coursera-dl-seqmodels]: https://www.coursera.org/account/accomplishments/certificate/84LJ2QRKTH66
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
- 
