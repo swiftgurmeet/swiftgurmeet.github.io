@@ -22,7 +22,7 @@ Sunnyvale, CA 94087
 * Mixed-signal custom CAD support including SKILL programming
 * Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
-#### [2014-present] Machine Learning
+#### [2015-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, RNNs, GBMs. 
