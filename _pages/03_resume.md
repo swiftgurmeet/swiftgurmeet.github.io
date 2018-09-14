@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-#### [2016-Present] Consultant
+#### [2016-Present] Independent Consultant
 
 ##### ZGlue Inc. 
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
