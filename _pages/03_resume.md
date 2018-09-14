@@ -13,6 +13,13 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
+#### [2016-17] Consultant, ZGlue Inc. 
+* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
+* Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue-2]
+* Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
+* Mixed-signal custom CAD support including SKILL programming
+* Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
+
 #### [2014-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
@@ -20,13 +27,6 @@ Sunnyvale, CA 94087
 * Tensorflow, Keras, numpy, sklearn.
 * Python, R. Bit of Scala, Swift.
 * Expert linux user.
-
-#### [2016-17] Consultant, ZGlue Inc. 
-* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also Assura physical verification (drc/lvs) and logical equivalence (lec) flows.
-* Hierarchical implementation of an instance array design including floorplanning, power grid, pin placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue-2]
-* Abstract generation of analog macros and hierarchical instance to allow for through the block routing.
-* Mixed-signal custom CAD support including SKILL programming
-* Setup Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus, set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 #### [2013-14] Senior Staff Engineer, Qualcomm Technologies
 * Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
