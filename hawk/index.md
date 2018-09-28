@@ -6,7 +6,7 @@ permalink: /hawk/
 
 ## Big Data Interface
 
-## Apache Spark Install
+#### Apache Spark Install
 
 [Single Machine Installation][spark-install-single-mc]
 
