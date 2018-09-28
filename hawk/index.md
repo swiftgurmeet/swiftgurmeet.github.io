@@ -4,9 +4,9 @@ title: "hawk"
 permalink: /hawk/
 ---
 
-## Big Data Interface
+# Big Data Interface
 
-#### Apache Spark Install
+### Apache Spark Install
 
 [Single Machine Installation][spark-install-single-mc]
 
