@@ -10,4 +10,4 @@ permalink: /hawk/
 
 [Single Machine Installation][spark-install-single-mc]
 
-[spark-install-single-mc]: {{ site.url }}/hawk/spark-single-machine-install.md
+[spark-install-single-mc]: {{ site.url }}/hawk/singlemc
