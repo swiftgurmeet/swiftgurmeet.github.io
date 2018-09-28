@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Single Machine Install"
-permalink: /singlemc/
+permalink: hawk/singlemc/
 ---
 
 ## Single Machine Install
