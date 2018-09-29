@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Single Machine Install"
 permalink: hawk/singlemc/
 ---
 
