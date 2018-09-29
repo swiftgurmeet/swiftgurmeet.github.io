@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "hawk"
 permalink: /hawk/
 ---
 
