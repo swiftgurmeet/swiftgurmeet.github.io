@@ -1,6 +1,5 @@
 ---
 layout: default
-categories: main
 ---
 
 # Big Data Interface
