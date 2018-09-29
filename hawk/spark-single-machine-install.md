@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: hawk/singlemc/
 ---
 
 ## Single Machine Install
