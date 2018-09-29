@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+categories: main
 ---
 
 ## Single Machine Install
