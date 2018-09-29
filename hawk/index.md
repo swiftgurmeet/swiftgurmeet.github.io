@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /hawk/
 ---
 
 # Big Data Interface
@@ -11,5 +10,5 @@ permalink: /hawk/
 ### [Spark Tutorial using Python notebooks][spark-tut-nb-github]
    * [A good example with log file processing can be found in wasy to read format.](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3028578575257100/55956661433801/6146760098651560/latest.html)
 
-[spark-install-single-mc]: {{ site.url }}/hawk/singlemc
+[spark-install-single-mc]: {{ site.url }}/hawk/spark-single-machine-install
 [spark-tut-nb-github]: https://github.com/TomLous/edx-cs105x-spark-intro
