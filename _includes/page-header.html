@@ -1,13 +1,11 @@
 <section class="page-header">
     <div style="float:right;">
     <nav>
-    {% for page in site.pages %}
-        {% unless page.exclude %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-            </a>
-        {% endunless %}
-    {% endfor %}
+      {% for page in site.pages %}
+         {% if page.title %}
+             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a>
+         {% endif %}
+      {% endfor %}
     </nav>
   </div>
 </section>
