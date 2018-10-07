@@ -3,6 +3,7 @@ layout: default
 title:  Swift learning project - Locu
 date:   2017-03-02 09:50:00
 categories: main
+exclude: true
 ---
 
 ### Toy app called Locu using Swift 1.0
