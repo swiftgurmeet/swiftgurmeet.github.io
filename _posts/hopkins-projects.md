@@ -3,6 +3,7 @@ layout: default
 title:  "Coursera \"Data Science\" Specialization Projects"
 date:   2017-02-27 09:50:00
 categories: main
+exclude: true
 ---
 
 ### Course Projects
