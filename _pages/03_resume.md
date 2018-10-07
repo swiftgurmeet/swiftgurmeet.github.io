@@ -128,7 +128,7 @@ Sunnyvale, CA 94087
 [rtcimage]: {{ site.url }}/images/rtc.png
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
 [dsp]: {{ site.url }}/images/dsp.jpg
-[locu]: {% post_url 2017-03-02-Locu-ios-sample-app %}
+[locu]: {% post_url locu %}
 [kaggleprofile]: https://www.kaggle.com/gary347
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
