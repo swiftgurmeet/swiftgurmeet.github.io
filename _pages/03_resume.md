@@ -19,7 +19,7 @@ Sunnyvale, CA 94087
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
 * Physical design methodology and Cadence based netlist-to-gds flow development. 
 * Mixed-signal CAD, Abstract generation.
-* Setup Virtuoso QRC extraction flow, set up and run fulll chip STA with Tempus, set up,run top level LEC. [Silicon success.][zglue]
+* Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up,run top level LEC. [Silicon success.][zglue]
 
 #### [2015-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
