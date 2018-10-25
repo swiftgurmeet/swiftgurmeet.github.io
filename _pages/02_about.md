@@ -18,7 +18,7 @@ When I started attending Delhi University, the projects grew more complex. I'd h
 
 ## The programming years
 
-I started attending the premier Indian Institute of Science in Bangalore for a master's degree in Electronic Communication Engineering. The first course in programming called "Introduction to Programming" was a trial by fire. The first assignment after couple of weeks of instruction, when I hadn't even touched a computer before, was to write a simple simulator/assembler in Pascal for a computer that could execute 12 machine instructions like ADD,MOV,SUB,JMPZ (jump if zero) etc. This was to be done on an HP mini running Unix with a VT100 terminal.  The second assignment after a month or so was to write a primitive LISP REPL interpreter. Needless to say, this was way too much for me to handle and I dropped the course to retake it during summer by which time I was slightly better prepared, learnt to use an IBM PC clone at 4.77 MHz and dual 5" floppy drives, did [write the LISP REPL][lisp] and managed to get the best possible grade. I wanted to take an Amateur radio exam that needed proficiency in Morse code at 12 words per minute and soon I was writing my first "App" using Borland Turbo-Pascal under DOS to practice Morse code. I had a set of drop down menus using text based graphics, where I could choose the set of characters, their duration and spacing for practice; looked quite professional I think. I cleared the 12 wpm test administered by the Govt. of India and still have the paper that says so. Later, I took more courses on Data structure and algorithms using C language, and audited courses on operating systems and computer architecture. In all, while at IISc, I took 35 courses spanning electrical machines, analog and digital electronics, computing, networks, optical and microwave communications, radars, DSP, VLSI and mathematics including one called "Computational methods of Non-linear optimization." In this course, I got 16 marks out of 100 and an A-grade. 1/100 was passing grade and four students couldn't make it, as far as I remember. I learnt a lot about a lot of things over four years. My final year project was thousands of lines of C-code including lex/yacc tools and graph algorithms [shudder]. I stayed at the top of my class for all seven years of college.
+I started attending the premier Indian Institute of Science in Bangalore for a master's degree in Electronic Communication Engineering. The first course in programming called "Introduction to Programming" was a trial by fire. The first assignment after couple of weeks of instruction, when I hadn't even touched a computer before, was to write a simple simulator/assembler in Pascal for a computer that could execute 12 machine instructions like ADD,MOV,SUB,JMPZ (jump if zero) etc. This was to be done on an HP mini running Unix with a VT100 terminal.  The second assignment after a month or so was to write a primitive LISP REPL interpreter. Needless to say, this was way too much for me to handle and I dropped the course to retake it during summer by which time I was slightly better prepared, learnt to use an IBM PC clone at 4.77 MHz and dual 5" floppy drives, did [write the LISP REPL][lisp] and managed to get the best possible grade. I wanted to take an Amateur radio exam that needed proficiency in Morse code at 12 words per minute and soon I was writing my first "App" using Borland Turbo-Pascal under DOS to practice Morse code. I had a set of drop down menus using text based graphics, where I could choose the set of characters, their duration and spacing for practice; looked quite professional I think. I cleared the 12 wpm test administered by the Govt. of India and still [have the paper that says so][minofcomm]. Later, I took more courses on Data structure and algorithms using C language, and audited courses on operating systems and computer architecture. In all, while at IISc, I took 35 courses spanning electrical machines, analog and digital electronics, computing, networks, optical and microwave communications, radars, DSP, VLSI and mathematics including one called "Computational methods of Non-linear optimization." In this course, I got 16 marks out of 100 and an A-grade. 1/100 was passing grade and four students couldn't make it, as far as I remember. I learnt a lot about a lot of things over four years. My final year project was thousands of lines of C-code including lex/yacc tools and graph algorithms [shudder]. I stayed at the top of my class for all seven years of college.
 
 ## The work years
 
@@ -42,9 +42,20 @@ One day while browsing the Coursera website, not sure what I clicked, I landed o
 [qsl-radio-mediterranean-front]: {{ site.url }}/qsl/radio-mediterranean-front.png
 [qsl-radio-luxembourg-back]: {{ site.url }}/qsl/radio-luxembourg-back.png
 [qsl-radio-luxembourg-front]: {{ site.url }}/qsl/radio-luxembourg-front.jpg
+[qsl-radio-montecarlo-front]: {{ site.url }}/qsl/radio-montecarlo-front.jpg
+[qsl-radio-prague-front]: {{ site.url }}/qsl/radio-prague-front.jpg
+[qsl-radio-norway-front]: {{ site.url }}/qsl/radio-norway-front.jpg
+[qsl-radio-korea-front]: {{ site.url }}/qsl/radio-korea-front.jpg
+[qsl-radio-dod-front]: {{ site.url }}/qsl/radio-dod-front.jpg
+[qsl-radio-dod-back]: {{ site.url }}/qsl/radio-dod-back.jpg
+[qsl-radio-japan2-front]: {{ site.url }}/qsl/radio-japan2-front.jpg
+[qsl-radio-kol-front]: {{ site.url }}/qsl/radio-kol-israel-front.jpg
+[qsl-radio-rsa-front]: {{ site.url }}/qsl/radio-south-africa-front.jpg
 [pop-mech-cover-june-67]: {{ site.url }}/images/pop-mech-cover-06-1967.jpg
 [pop-mech-1966-us-af]: {{ site.url }}/images/pop-mech-1966-us-af.jpg
 [pop-mech-1967-bed]: {{ site.url }}/images/pop-mech-1967-bed.jpg
 [pop-mech-1975-rv]: {{ site.url }}/images/pop-mech-1975-rv.jpg
 [pop-mech-1975-guns]: {{ site.url }}/images/pop-mech-guns-1967.png
 [xtor-i-v-curve]: {{ site.url }}/images/xtor-i-v-curve.gif
+[minofcomm]: {{ site.url  }}/st/min-of-comm-ham.pdf
+
