@@ -24,7 +24,7 @@ Sunnyvale, CA 94087
 #### [2015-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
-* CNN, RNNs, GBMs. 
+* CNN, RNNs, XGBoost. 
 * Tensorflow, Keras, numpy, sklearn.
 * Python, R. Bit of Scala, Swift.
 * Expert linux user.
