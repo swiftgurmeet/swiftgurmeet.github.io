@@ -13,7 +13,10 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-#### [2016-Present] Independent Consultant
+#### [2018-Present] Engineer, Startup
+* 7nm SoC: Physical Implementation
+
+#### [2016-2017] Independent Consultant
 
 ##### ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
