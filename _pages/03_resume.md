@@ -33,13 +33,14 @@ Sunnyvale, CA 94087
 * Expert linux user.
 
 #### [2013-14] Senior Staff Engineer, Qualcomm Technologies
-* Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
+* 40nm ASIC: Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
 #### [2012-13] Staff AE, Cadence Design Systems
-* Developed complete,automated rtl2gds flow (14nm/finFET) using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. Implemented a 28nm DDR-PHY IP for tapeout.
+* 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. 
+* 28nm DDR-PHY IP implementation for tapeout.
 
 #### [2011-12] Principal Engineer, LSI/Sandforce Inc.
-* Developed a 40 nm automated and optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
+* Developed a 40nm automated, optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
@@ -47,7 +48,7 @@ Sunnyvale, CA 94087
 #### [2008-11] Consultant/Engineer, Sandisk, Qualcomm, AMCC
 * Setup 40nm Cadence based, automated, tapeout ready, block level implementation flow.
 * Hierarchical physical implementation flow in 65nm technology using Cadence.
-* Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
+* 65nm Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
 * 65nm WiFi ASIC: Implementation of large block using Magma. [Silicon Success.][wcn1312]
 * 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
 
