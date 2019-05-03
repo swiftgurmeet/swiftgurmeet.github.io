@@ -14,14 +14,14 @@ Sunnyvale, CA 94087
 ## Professional Experience
 
 #### [2018-Present] Engineer, Startup
-* Machine Learning SoC: 7nm Physical Design and Methodology
+* Machine Learning SoC: 7nm Physical Design and Methodology, Global clocking model and circuit simulation.
 
 #### [2016-2017] Independent Consultant
 
 ##### ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
-* Physical design methodology and Cadence Innovus based netlist-to-gds flow development. 
-* Mixed-signal CAD, Abstract generation.
+* Physical design methodology; Cadence Innovus based netlist-to-gds implementation, LEC, LVS/DRC flow development. 
+* Mixed-signal CAD, SKILL programming, Abstract generation.
 * Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up,run top level LEC. [Silicon success.][zglue]
 
 #### [2015-present] Machine Learning
