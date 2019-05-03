@@ -20,7 +20,7 @@ Sunnyvale, CA 94087
 
 ##### ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
-* Physical design methodology and Cadence based netlist-to-gds flow development. 
+* Physical design methodology and Cadence Innovus based netlist-to-gds flow development. 
 * Mixed-signal CAD, Abstract generation.
 * Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up,run top level LEC. [Silicon success.][zglue]
 
