@@ -164,4 +164,4 @@ Sunnyvale, CA 94087
 [coursera-dl-cnn]: https://www.coursera.org/account/accomplishments/certificate/8F95RC8VK5GX
 [coursera-dl-seqmodels]: https://www.coursera.org/account/accomplishments/certificate/84LJ2QRKTH66
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
-[dinosaurs]: https://github.com/swiftgurmeet/keras-dinosaur-names
+[dinosaurs]: https://colab.research.google.com/github/swiftgurmeet/keras-dinosaur-names/blob/master/dinosaur-names-keras.ipynb
