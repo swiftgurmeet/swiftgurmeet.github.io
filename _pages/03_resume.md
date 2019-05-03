@@ -14,7 +14,7 @@ Sunnyvale, CA 94087
 ## Professional Experience
 
 #### [2018-Present] Engineer, Startup
-* 7nm SoC: Physical Implementation Methodology and Design
+* Machine Learning SoC: 7nm Physical Design and Methodology
 
 #### [2016-2017] Independent Consultant
 
