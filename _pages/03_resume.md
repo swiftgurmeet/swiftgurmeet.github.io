@@ -108,7 +108,7 @@ Sunnyvale, CA 94087
 
 #### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal, Best Student, 1990-93][alumnimedal]
 
-#### [1986-89]  [B.Sc.][bsccourses], Physics, [Delhi University][delhi-university]. [First class with distinction, Gold medal, Best Student: 1987/88/89.][bsccerts]
+#### [1986-89]  [B.Sc., Physics][bsccourses], [Delhi University][delhi-university]. [First class with distinction, Gold medal, Best Student: 1987/88/89.][bsccerts]
 
 [wcd9335]: https://www.qualcomm.com/products/wcd9335
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
