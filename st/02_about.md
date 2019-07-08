@@ -1,6 +1,4 @@
 ---
-title:  
-layout: page
 ---
 
 ## The school years
