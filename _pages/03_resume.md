@@ -2,7 +2,7 @@
 layout: default
 title: resume
 permalink: /resume/
-page-category: indexed
+page-category: not-indexed
 ---
 
 <pre id="address">
