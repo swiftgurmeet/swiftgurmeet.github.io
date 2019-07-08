@@ -1,7 +1,5 @@
 ---
 layout: page
-title: personal
-permalink: /personal/
 ---
 
 ## The school years
