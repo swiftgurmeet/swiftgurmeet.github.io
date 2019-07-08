@@ -1,5 +1,5 @@
 ---
-title: "{versatile.effective.excellent.}"
+title: ""
 ---
 
 ## The school years
