@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-#### [2018-Present] Engineer, Startup
+#### [2018-Present] Engineer, Machine Learning SOC Startup
 * Machine Learning SoC: 7nm Physical Design and Methodology, Global Clock Distribution: design/modeling/simulation and implementation
 
 #### [2016-2017] Independent Consultant
