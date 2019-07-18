@@ -1,5 +1,5 @@
 ---
-title: "_"
+title: " "
 ---
 
 ## The school years
