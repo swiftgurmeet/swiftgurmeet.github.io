@@ -13,12 +13,10 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-#### [2018-Present] Engineer, Machine Learning SOC Startup
+#### [2018-Present] Machine Learning SOC Startup
 * Machine Learning SoC: 7nm Physical Design and Methodology, Global Clock Distribution: design/modeling/simulation and implementation
 
-#### [2016-2017] Independent Consultant
-
-##### ZGlue Inc. 
+#### [2016-2017] ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
 * Physical design methodology; Cadence Innovus based netlist-to-gds implementation, LEC, LVS/DRC flow development. 
 * Mixed-signal CAD, SKILL programming, Abstract generation.
@@ -32,44 +30,44 @@ Sunnyvale, CA 94087
 * Python, R. Bit of Scala, Swift.
 * Expert linux user.
 
-#### [2013-14] Senior Staff Engineer, Qualcomm Technologies
+#### [2013-14] Qualcomm Technologies
 * 40nm ASIC: Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
-#### [2012-13] Staff AE, Cadence Design Systems
+#### [2012-13] Cadence Design Systems
 * 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. 
 * 28nm DDR-PHY IP implementation for tapeout.
 
-#### [2011-12] Principal Engineer, LSI/Sandforce Inc.
+#### [2011-12] LSI/Sandforce Inc.
 * Developed a 40nm automated, optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
-#### [2008-11] Consultant/Engineer, Sandisk, Qualcomm, AMCC
+#### [2008-11] Sandisk, Qualcomm, AMCC
 * Setup 40nm Cadence based, automated, tapeout ready, block level implementation flow.
 * Hierarchical physical implementation flow in 65nm technology using Cadence.
 * 65nm Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
 * 65nm WiFi ASIC: Implementation of large block using Magma. [Silicon Success.][wcn1312]
 * 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
 
-#### [2006-08] Principal Engineer, Teranetics
+#### [2006-08] Teranetics
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
-#### [2004-06] Design Manager, Airgo Networks
+#### [2004-06] Airgo Networks
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
 
-#### [2001-04] Senior Member of Technical Staff, Transmeta
+#### [2001-04] Transmeta
 * 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport PnR blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
 
-#### [1999-01] Member of Technical Staff, Sun Microsystems
+#### [1999-01] Sun Microsystems
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
 * 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. [Silicon success.][ultrasparc3]
 
-#### [1997-99] Design Engineer, Intel Corporation
+#### [1997-99] Intel Corporation
 * 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
 * 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
 
-#### [1994-97] Design Engineer, STMicroelectronics
+#### [1994-97] STMicroelectronics
 * Circuit Design of 32kx8, 128kx8 SRAMs. [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
 
 ## Education: 
