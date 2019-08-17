@@ -104,7 +104,7 @@ Sunnyvale, CA 94087
 	
 ### [12/2006]  [Introduction to Digital Signal Processing Course, UC Berkeley, A Grade][dsp]
 
-### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal, Best Student][alumnimedal]
+### [1989-93]  [M.Engg][mecourses], [Electrical Comm][iisc-ece], [Indian Institute of Science][iisc]. [First class with distinction.][medegree] [Alumni medal, Best Student.][alumnimedal]
 
 ### [1986-89]  [B.Sc., Physics][bsccourses], [Delhi University][delhi-university]. [First class with distinction, Gold medal, Best Student: 1987/88/89.][bsccerts]
 
