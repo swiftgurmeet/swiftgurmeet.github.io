@@ -31,7 +31,7 @@ Sunnyvale, CA 94087
 * Expert linux user.
 
 ### [2013-14] Qualcomm Technologies
-* 40nm ASIC: Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received two Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
+* 40nm ASIC: Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
 
 ### [2012-13] Cadence Design Systems
 * 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. 
