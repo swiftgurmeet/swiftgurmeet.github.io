@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-### [2018-Present] Machine Learning SOC Startup
+### [2018-Present] Machine Learning SoC Startup
 * Machine Learning SoC: 7nm Physical Design and Methodology, Global Clock Distribution: design/modeling/simulation and implementation
 
 ### [2016-2017] ZGlue Inc. 
@@ -57,7 +57,7 @@ Sunnyvale, CA 94087
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
 
 ### [2001-04] Transmeta
-* 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport PnR blocks; Register File design. ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
+* 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport PnR blocks; Register File design. Peformed dozens of all layer and metal-only ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
 
 ### [1999-01] Sun Microsystems
 * UltraSparc V CPU: CAM Register File, Custom logic circuit design
