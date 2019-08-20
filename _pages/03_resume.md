@@ -14,13 +14,13 @@ Sunnyvale, CA 94087
 ## Professional Experience
 
 ### [2018-Present] Machine Learning SoC Startup
-* Machine Learning SoC: 7nm Physical Design and Methodology, Global Clock Distribution: design/modeling/simulation and implementation
+* Machine Learning SoC: 7nm Physical Design (1.1 million gate design) and Methodology (timing corners, margins, clocking methodology, libraries and level shifters' analysis), Global Clock Distribution: clock tree design/modeling/simulation and ICC2 implementation
 
 ### [2016-2017] ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
-* Physical design methodology; Cadence Innovus based netlist-to-gds implementation, LEC, LVS/DRC flow development. 
-* Mixed-signal CAD, SKILL programming, Abstract generation.
-* Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up,run top level LEC. [Silicon success.][zglue]
+* Physical design methodology; Cadence Innovus based netlist-to-gds automated implementation flow, LEC methodology and LVS/DRC flow development. 
+* Mixed-signal CAD, Programming in SKILL language, Detailed Abstract generation for through-block routability.
+* Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up and run LEC on chip. [Silicon success.][zglue]
 
 ### [2015-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
@@ -31,11 +31,11 @@ Sunnyvale, CA 94087
 * Expert linux user.
 
 ### [2013-14] Qualcomm Technologies
-* 40nm ASIC: Top level floorplan, power grid with multiple power domains, using CPF/UPF for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. [Silicon success (WCD9335).][wcd9335]
+* 40nm ASIC: Top level floorplan and power grid design with multiple power domains for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. Beat the schedule.[Silicon success (WCD9335).][wcd9335]
 
 ### [2012-13] Cadence Design Systems
-* 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same, implemented an ARM A9 design @ 2.4GHz. 
-* 28nm DDR-PHY IP implementation for tapeout.
+* 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same flow, implemented an ARM A9/Neon design @ 2.4GHz. 
+* 28nm DDR-PHY IP final implementation runs for tapeout.
 
 ### [2011-12] LSI/Sandforce Inc.
 * Developed a 40nm automated, optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
@@ -54,21 +54,21 @@ Sunnyvale, CA 94087
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 ### [2004-06] Airgo Networks
-* Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal, Calibre PV flows. Full chip EM/IR signoffusing Apache-Redhawk.  Tapeout signoff/jobview. ECOs, I/O Spice sims, IP integration, Methodology, project management. [Silicon success.][agn3]
+* Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal (LEC)  and Calibre physical verificatino flows. Full chip EM/IR flow development and signoff using Apache-Redhawk.  Tapeout signoff/jobview. Multiple ECOs, I/O Spice sims and silicon failure analysis, IP integration, Methodology, project management. [Silicon success.][agn3]
 
 ### [2001-04] Transmeta
-* 1.2/1.8GHz Efficeon CPUs: Implement Hypertransport PnR blocks; Register File design. Peformed dozens of all layer and metal-only ECOs. Setup latch compatible STA flow. Array and noise methodologies. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
+* 1.2/1.8GHz Efficeon CPUs: Implement Hyper-Transport PnR blocks; Register File custom circuit design. Peformed dozens of all layer and metal-only ECOs. Setup latch compatible STA flow. Array and noise methodologies. One patent awarded on a Repeater Circuit. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
 
 ### [1999-01] Sun Microsystems
-* UltraSparc V CPU: CAM Register File, Custom logic circuit design
-* 1.2GHz UltraSparc III CPU: Port a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. [Silicon success.][ultrasparc3]
+* UltraSparc V CPU: CAM Register File (4 write, 2 read, 1 compare) design, modeling and verification
+* 1.2GHz UltraSparc III CPU: Ported a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. Wrote a C language module to create a timing model through Pathmill API. [Silicon success.][ultrasparc3]
 
 ### [1997-99] Intel Corporation
 * 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
-* 600 MHz Pentium III CPU : GTL I/O circuit design. [Silicon success.][katmai]
+* 600 MHz Pentium III CPU : GTL I/O circuit design. One patent disclosure. [Silicon success.][katmai]
 
 ### [1994-97] STMicroelectronics
-* Circuit Design of 32kx8, 128kx8 SRAMs. [Silicon success][stm62128image]. CAD setup. Reverse engineer a register file and re-implement, verify functionality using verilog switch level simulation. [Silicon success.][rtcimage]
+* Circuit Design of a high performance 32kx8, and a low power 128kx8 SRAM. [Silicon success][stm62128image]. CAD setup for custom circuit design. Reverse engineer a competitor register file and re-implement, verify functionality (including leap years, Y2K etc.) using verilog switch level simulation. [Silicon success.][rtcimage]
 
 ## Education: 
 
