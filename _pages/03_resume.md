@@ -27,7 +27,7 @@ Sunnyvale, CA 94087
 * [Kaggle Participant][kaggleprofile]
 * CNN, [RNNs][dinosaurs], XGBoost. 
 * Tensorflow, Keras, numpy, sklearn.
-* Python, R. Bit of Scala, Swift.
+* Python, R. Bit of Scala, [Swift][swift].
 * Expert linux user.
 
 ### [2013-14] Qualcomm Technologies
@@ -132,6 +132,7 @@ Sunnyvale, CA 94087
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
 [dsp]: {{ site.url }}/images/dsp.jpg
 [kaggleprofile]: https://www.kaggle.com/gary347
+[swift]: https://github.com/swiftgurmeet/set-card-game
 [iisc]: http://www.iisc.ac.in
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science#Rankings
