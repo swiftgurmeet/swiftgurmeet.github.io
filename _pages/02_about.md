@@ -1,5 +1,10 @@
 ---
-title: " "
+layout: default
+title: about
+permalink: /about/
+page-category: not-indexed
+---
+
 ---
 
 ## The school years
