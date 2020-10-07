@@ -13,7 +13,7 @@ Sunnyvale, CA 94087
 
 ## Professional Experience
 
-### [2018-Present] Machine Learning SoC Startup
+### [2018-2019] Machine Learning SoC Startup
 * Machine Learning SoC: 7nm Physical Design and Methodology (timing corners, margins, clocking methodology, library cells and level shifters' analysis, 1.1M gate PnR), Global Clock Distribution: clock tree design/modeling/simulation and ICC2 implementation
 
 ### [2016-2017] ZGlue Inc. 
