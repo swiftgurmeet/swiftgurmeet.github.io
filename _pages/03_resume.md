@@ -38,7 +38,7 @@ Sunnyvale, CA 94086
 * 28nm DDR-PHY IP final implementation runs for tapeout.
 
 ### [2011-12] LSI/Sandforce Inc.
-* Developed a 40nm automated, optimized, tapeout ready, Cadence based implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
+* Developed a 40nm automated, optimized, tapeout ready, Cadence based netlist-to-gds implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
 * Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
