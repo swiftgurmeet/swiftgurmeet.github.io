@@ -26,7 +26,7 @@ Sunnyvale, CA 94086
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, [RNNs][dinosaurs], XGBoost. 
-* Tensorflow, Keras, numpy, sklearn.
+* [Tensorflow][coursera-gcp-tensor], Keras, numpy, sklearn.
 * Python, [R][coursera-r]. Bit of [Scala][coursera-scala1], [Swift][swift].
 * Expert linux user.
 
