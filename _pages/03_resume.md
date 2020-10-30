@@ -16,7 +16,7 @@ Sunnyvale, CA 94086
 ### [2018-2019] Machine Learning SoC Startup
 * Machine Learning SoC: 7nm Physical Design and Methodology (timing corners, margins, clocking methodology, library cells and level shifters' analysis, 1.1M gate PnR), Global Clock Distribution: clock tree design/modeling/simulation and ICC2 implementation
 
-### [2016-2017] ZGlue Inc. 
+### [2015-2017] ZGlue Inc. 
 * Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
 * Physical design methodology; Cadence Innovus based netlist-to-gds automated implementation flow, LEC methodology and LVS/DRC flow development. 
 * Mixed-signal CAD, Programming in SKILL language, Detailed Abstract generation for through-block routability.
