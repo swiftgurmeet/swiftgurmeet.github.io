@@ -33,7 +33,7 @@ Sunnyvale, CA 94086
 ### [2013-14] Qualcomm Technologies
 * 40nm ASIC: Top level floorplan and power grid design with multiple power domains for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. Beat the schedule.[Silicon success (WCD9335).][wcd9335]
 
-### [08-13] Consultant/Engineer
+### [2008-13] Consultant/Engineer
 * 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same flow, implemented an ARM A9/Neon design @ 2.4GHz. 
 * 28nm DDR-PHY IP final implementation runs for tapeout.
 * Developed a 40nm automated, optimized, tapeout ready, Cadence based netlist-to-gds implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
