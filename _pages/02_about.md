@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about
+title: " "
 permalink: /about/
 page-category: not-indexed
 ---
