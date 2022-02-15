@@ -14,7 +14,7 @@ Sunnyvale, CA 94086
 ## Professional Experience
 
 ### [2020-] Contractor, Samsung Austin R&D Center
-* Block Level RTL-to-GDSII Physical Design, Flow development
+* 4nm RTL-to-GDSII Physical Design to tapeout, 3nm Flow development
 
 ### [2018-2019] Esperanto Technologies
 * Machine Learning SoC: 7nm Physical Design and Methodology (timing corners, margins, clocking methodology, library cells and level shifters' analysis, 1.1M gate PnR), Global Clock Distribution: clock tree design/modeling/simulation and ICC2 implementation
