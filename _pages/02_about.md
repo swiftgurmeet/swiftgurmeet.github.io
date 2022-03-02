@@ -62,3 +62,4 @@ One day while browsing the Coursera website, not sure what I clicked, I landed o
 [xtor-i-v-curve]: {{ site.url }}/images/xtor-i-v-curve.gif
 [minofcomm]: {{ site.url  }}/st/min-of-comm-ham.pdf
 
+
