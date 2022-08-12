@@ -13,7 +13,10 @@ Sunnyvale, CA 94086
 
 ## Professional Experience
 
-### [2020-] Contractor, Samsung Austin R&D Center
+### [2022-] PPA Engineer, Intel Corp.
+* 18A Physical Design Flow/Methodology for Power, Performance and Area
+
+### [2020-2022] Contractor, Samsung Austin R&D Center
 * 4nm RTL-to-GDSII Physical Design to tapeout, 3nm Flow development
 
 ### [2018-2019] Esperanto Technologies
