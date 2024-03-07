@@ -14,7 +14,7 @@ Sunnyvale, CA 94086
 ## Professional Experience
 
 ### [2022-] PPA Engineer, Intel Corp.
-* 18A Physical Design Flow/Methodology for Power, Performance and Area
+* Advanced node RTL->GDSII flow development, PPA optimization of standard IPs, PPA and other metrics' automated collection, analysis and visualization using R/GGPlot2 and Python/Panfas/Seaborn. 
 
 ### [2020-2022] Contractor, Samsung Austin R&D Center
 * 4nm RTL-to-GDSII Physical Design to tapeout, 3nm Flow development
