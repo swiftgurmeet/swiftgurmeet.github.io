@@ -14,7 +14,7 @@ Sunnyvale, CA 94086
 ## Professional Experience
 
 ### [2022-] PPA Engineer, Intel Corp.
-* Advanced node RTL->GDSII flow development, PPA optimization of standard IPs, PPA and other metrics' automated collection, analysis and visualization using R/GGPlot2 and Python/Pandas/Seaborn. 
+* Advanced node RTL->GDSII flow development, Implementation, PPA benchmarking and optimization of industry standard IPs; Development of infrastructure and execution of PPA and other metrics' automated collection, analysis and visualization using R/GGPlot2 and Python/Pandas/Seaborn. 
 
 ### [2020-2022] Contractor, Samsung Austin R&D Center
 * 4nm RTL-to-GDSII Physical Design to tapeout, 3nm Flow development
