@@ -25,7 +25,7 @@ I started attending the premier Indian Institute of Science in Bangalore for a m
 
 ## The work years
 
-I have worked mostly in CMOS circuit design and ASIC physical design. I made significant contribution to implementation of several pioneering designs that successfully made it to the market. These included fast SRAM memories, microprocessors (Intel Pentium III, Sun UltraSparc III, Transmeta Efficeon) and pioneering ASICs (MiMo Wifi, 10GBase-T Phy, SSD PCIE controller, Active Silicon Interposer) and an RDNA2 GPU. [See more on my resume.][resume]
+I have worked mostly in CMOS circuit design and ASIC physical design. I made significant contribution to implementation of several designs that successfully made it to the market. These included fast SRAM memories, microprocessors (Intel Pentium III, Sun UltraSparc III, Transmeta Efficeon) and pioneering ASICs (MiMo Wifi, 10GBase-T Phy, SSD PCIE controller, Active Silicon Interposer) and an RDNA2 GPU. [See more on my resume.][resume]
 
 ## Machine Learning
 
