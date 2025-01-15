@@ -29,3 +29,5 @@ gems:
 markdown: kramdown
 
 google_analytics: [UA-122692016-1]
+
+theme: jekyll-theme-minimal
