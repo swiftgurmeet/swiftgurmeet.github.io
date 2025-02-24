@@ -1,10 +1,10 @@
 ---
 layout: default
-title: resume
-permalink: /resume/
+title: resume2
+permalink: /resume2/
 page-category: not-indexed
 ---
 
-[Resume][resume]
+[Resume][resume2]
 
-[resume]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
+[resume2]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
