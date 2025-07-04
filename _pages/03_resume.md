@@ -76,8 +76,8 @@ Sunnyvale, CA 94086
 
 ### [2015-2018]: Coursera Courses
 
-1. [Neural Networks and Deep Learning][coursera-neural][Code][coursera-dl-code]
-1. [Machine Learning][coursera-ml][Code][coursera-ml-code]
+1. [Neural Networks and Deep Learning][coursera-neural] [Code][coursera-dl-code]
+1. [Machine Learning][coursera-ml][Code] [coursera-ml-code]
 1. [Machine Learning With Big Data][coursera-ml-bigdata]
 1. [Practical Machine Learning][coursera-pml]
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
