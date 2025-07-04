@@ -33,7 +33,7 @@ Sunnyvale, CA 94086
 * [Kaggle Participant][kaggleprofile]
 * CNN, [RNNs][dinosaurs], XGBoost. 
 * [Tensorflow][coursera-gcp-tensor], Keras, numpy, sklearn.
-* Python, [R][coursera-r]. Bit of [Scala][coursera-scala1], [Swift][swift].
+* Python, [R][coursera-r]. Bit of [Scala][coursera-scala2], [Swift][swift], [MATLAB][coursera-ml-code].
 * Expert linux user.
 
 ### [2013-14] Qualcomm Technologies
