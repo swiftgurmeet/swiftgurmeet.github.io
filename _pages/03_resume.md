@@ -76,8 +76,8 @@ Sunnyvale, CA 94086
 
 ### [2015-2018]: Coursera Courses
 
-1. [Neural Networks and Deep Learning][coursera-neural]
-1. [Machine Learning][coursera-ml]
+1. [Neural Networks and Deep Learning][coursera-neural][Code][coursera-dl-code]
+1. [Machine Learning][coursera-ml][Code][coursera-ml-code]
 1. [Machine Learning With Big Data][coursera-ml-bigdata]
 1. [Practical Machine Learning][coursera-pml]
 1. [Structuring Machine Learning Projects][coursera-structuring-ml]
@@ -166,3 +166,5 @@ Sunnyvale, CA 94086
 [coursera-dl-seqmodels]: https://www.coursera.org/account/accomplishments/certificate/84LJ2QRKTH66
 [homecredit-leaderboard]: https://www.kaggle.com/c/home-credit-default-risk/leaderboard
 [dinosaurs]: https://colab.research.google.com/github/swiftgurmeet/keras-dinosaur-names/blob/master/dinosaur-names-keras.ipynb
+[coursera-ml-code]: https://github.com/swiftgurmeet/matlab
+[coursera-dl-code]: https://github.com/swiftgurmeet/coursera_deep_learning
