@@ -8,17 +8,17 @@ I have developed, over the years, complete, automated block level physical imple
 * Cadence LEC (Conformal): 3 times
 
 * Low Power Verification(Cadence Conformal-LP using CPF),
-  Synopsys LEC (Formality),
-  Sequence (Cooltime) STA flow, 
-  Synopsys (Pathmill; now nanotime) STA flow
-  Circuit Semantics (Dynacore) + Pearl STA flow
-  Synopsys (Primetime) STA flow,
-  Cadence (Tempus) STA flow,
-  Synopsys (PTPX) Power Analysis,
-  Sequence (Coolpower) EM/IR,
-  Apache (Redhawk/Seascape) EM/IR, 
-  Cadence semi-custom (Assura) RC extraction,
-  Cadence (Abgen) LEF generation: At least once
+    Synopsys LEC (Formality),
+    Sequence (Cooltime) STA flow, 
+    Synopsys (Pathmill; now nanotime) STA flow
+    Circuit Semantics (Dynacore) + Pearl STA flow
+    Synopsys (Primetime) STA flow,
+    Cadence (Tempus) STA flow,
+    Synopsys (PTPX) Power Analysis,
+    Sequence (Coolpower) EM/IR,
+    Apache (Redhawk/Seascape) EM/IR, 
+    Cadence semi-custom (Assura) RC extraction,
+    Cadence (Abgen) LEF generation: At least once
  
 Few were built around EDA vendors' reference flows.
 
