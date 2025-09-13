@@ -1,22 +1,24 @@
 I have developed, over the years, complete, automated block level physical implementation and verification design flows and used/deployed them successfully for production tapeouts:
 
-* Magma based netlist→GDSII flow: twice
-* Cadence based netlist→GDSII flow: 4 times
-* Cadence based RTL→GDSII flow: once
+* Magma (Blastfusion) based netlist→GDSII flow: twice
+* Cadence (Encounter/Innovus) based netlist→GDSII flow: 4 times
+* Cadence (Genus/Innovus) based RTL→GDSII flow: once
 * RC extraction (STaR, Assura, QRC, Quantus): 4 times
 * LVS/DRC/ERC/ANT (Mentor Calibre, Cadence Assura/PVS using TSMC decks): 4 times
 * Cadence LEC (Conformal): 3 times
+
 * Low Power Verification(Cadence Conformal-LP using CPF),
- Synopsys LEC (Formality),
- Sequence Cooltime STA flow, 
- Synopsys PT-SI STA flow,
- Cadence Tempus STA flow,
- Synopsys PTPX,
- Sequence Coolpower EM/IR,
- Apache Redhawk EM/IR, 
- Apache Seascape EM/IR,
- Cadence semi-custom Assura RC extraction,
- Cadence Abgen LEF generation: At least once
+  Synopsys LEC (Formality),
+  Sequence (Cooltime) STA flow, 
+  Synopsys (Pathmill; now nanotime) STA flow
+  Circuit Semantics (Dynacore) + Pearl STA flow
+  Synopsys (Primetime) STA flow,
+  Cadence (Tempus) STA flow,
+  Synopsys (PTPX) Power Analysis,
+  Sequence (Coolpower) EM/IR,
+  Apache (Redhawk/Seascape) EM/IR, 
+  Cadence semi-custom (Assura) RC extraction,
+  Cadence (Abgen) LEF generation: At least once
  
 Few were built around EDA vendors' reference flows.
 
