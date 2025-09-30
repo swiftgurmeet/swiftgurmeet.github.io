@@ -10,6 +10,11 @@ Gurmeet Singh
 Sunnyvale, CA 94086
 </pre>
 
+ [LinkedIn][linkedin]
+ [Resume][pdresume]
+ [Github][github]
+
+
 ## Summary
 
 I have extensive and broad experience in Physical Design and a long history of successful,
