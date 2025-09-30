@@ -11,6 +11,7 @@ Sunnyvale, CA 94086
 </pre>
 
 ## Summary
+
 I have extensive and broad experience in Physical Design and a long history of successful,
 productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citizen.]
 
@@ -19,7 +20,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citize
 [My Github][github]
 
 ## Professional Experience
-##
+
 ### [2022-2024] PPA Engineer, Intel Corp.
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
 supports numerous flow, technology, power/performance/area optimization options. This enabled
