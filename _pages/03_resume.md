@@ -21,7 +21,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citize
 
 ## Professional Experience
 
-### [2022-2024] PPA Engineer, Intel Corp.
+### [2022-2024] Physical Design Methodology Engineer, Intel Corp.
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
 supports numerous flow, technology, power/performance/area optimization options. This enabled
 batch jobs with up to thousands of parallel runs with different options, IPs, libraries and metal stacks
