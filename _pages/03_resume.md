@@ -15,9 +15,9 @@ Sunnyvale, CA 94086
 I have extensive and broad experience in Physical Design and a long history of successful,
 productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citizen.]
 
-[LinkedIn][linkedin]  
-[Resume][pdresume]  
-[Github][github]  
+ [LinkedIn][linkedin]  
+ [Resume][pdresume]  
+ [Github][github]  
 
 ## Professional Experience
 
