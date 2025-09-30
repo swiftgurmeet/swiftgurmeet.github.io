@@ -209,6 +209,6 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 [dinosaurs]: https://colab.research.google.com/github/swiftgurmeet/keras-dinosaur-names/blob/master/dinosaur-names-keras.ipynb
 [coursera-ml-code]: https://github.com/swiftgurmeet/matlab
 [coursera-dl-code]: https://github.com/swiftgurmeet/coursera_deep_learning
-[linkedin]: www.linkedin.com/in/gurmeet
+[linkedin]: https://www.linkedin.com/in/gurmeet
 [pdresume]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
-[github]: github.com
+[github]: https://github.com
