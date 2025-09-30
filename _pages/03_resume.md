@@ -19,7 +19,7 @@ Sunnyvale, CA 94086
 ## Summary
 
 I have extensive and broad experience in Physical Design and a long history of successful,
-productized tapeouts, sometimes using flows that [I set up][isetup]. (U.S.Citizen.)
+productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citizen.)
 
 ## Professional Experience
 
