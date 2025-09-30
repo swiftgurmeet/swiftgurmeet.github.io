@@ -14,9 +14,9 @@ Sunnyvale, CA 94086
 I have extensive and broad experience in Physical Design and a long history of successful,
 productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citizen.]
 
-www.linkedin.com/in/gurmeet
-https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
-github.com
+[LinkedIn][linkedin]
+[This Resume][pdresume]
+[My Github][github]
 
 ## Professional Experience
 ##
@@ -208,3 +208,6 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 [dinosaurs]: https://colab.research.google.com/github/swiftgurmeet/keras-dinosaur-names/blob/master/dinosaur-names-keras.ipynb
 [coursera-ml-code]: https://github.com/swiftgurmeet/matlab
 [coursera-dl-code]: https://github.com/swiftgurmeet/coursera_deep_learning
+[linkedin]: www.linkedin.com/in/gurmeet
+[pdresume]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
+[github]: github.com
