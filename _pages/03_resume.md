@@ -9,9 +9,10 @@ page-category: not-indexed
 Gurmeet Singh
 Sunnyvale, CA 94086
 </pre>
+  
 
- [LinkedIn][linkedin]
- [Resume][pdresume]
+ [LinkedIn][linkedin]  
+ [Resume][pdresume]  
  [Github][github]
 
 
