@@ -10,9 +10,16 @@ Gurmeet Singh
 Sunnyvale, CA 94086
 </pre>
 
+## Summary
+I have extensive and broad experience in Physical Design and a long history of successful,
+productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citizen.]
+
+www.linkedin.com/in/gurmeet
+https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
+github.com
 
 ## Professional Experience
-
+##
 ### [2022-2024] PPA Engineer, Intel Corp.
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
 supports numerous flow, technology, power/performance/area optimization options. This enabled
@@ -168,6 +175,7 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 [kaggleprofile]: https://www.kaggle.com/gary347
 [swift]: https://github.com/swiftgurmeet/set-card-game
 [iisc]: http://www.iisc.ac.in
+[isetup]: https://swiftgurmeet.github.io/st/flow.txt
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science#Rankings
 [iisc-ece]: http://ece.iisc.ernet.in
