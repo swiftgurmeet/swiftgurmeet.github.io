@@ -14,19 +14,51 @@ Sunnyvale, CA 94086
 ## Professional Experience
 
 ### [2022-2024] PPA Engineer, Intel Corp.
-* Advanced node RTL->GDSII flow development, Implementation, PPA benchmarking and optimization of industry standard IPs; Development of infrastructure and execution of PPA and other metrics' automated collection, analysis and visualization using R/GGPlot2 and Python/Pandas/Seaborn. 
+* Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
+supports numerous flow, technology, power/performance/area optimization options. This enabled
+batch jobs with up to thousands of parallel runs with different options, IPs, libraries and metal stacks
+for regressions or analysis. Started the git repo for the flow and made over 150 commits.
+* Worked with Cadence to productize an Intel18A PPA oriented reference flow usable by customers to
+jump start their own implementation flows.
+* Set up infrastructure for analyzing a large number of Intel18A synthesis/place&route runs on
+industry standard IPs with Cadence based Genus/Innovus based flow, collect PPA and other QOR
+metrics and continually document/present them visually using Python-Matplotlib and R-ggplot2.
+* Continually use the above infrastructure to benchmark and optimize the PPA metrics of industry
+standard IPs and publish results with different versions of Intel18A libraries and PDKs.
+* Worked with Cadence to produce a performance optimized implementation and the associated
+hierarchical RTL2GDS flow for a high performance ARM core (Cortex-X925 “Blackhawk”) on the
+Intel18A process.
 
 ### [2020-2022] Contractor, Samsung Austin R&D Center
-* 4nm RTL-to-GDSII Physical Design to tapeout, 3nm Flow development
+* Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm
+technology using Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing
+requirements. Over 75 timing/DRC/other ECOs. Provide guidance to the CAD team on
+methodology.
+* PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
 ### [2018-2019] Esperanto Technologies
-* Machine Learning SoC: 7nm Physical Design and Methodology (timing corners, margins, clocking methodology, library cells and level shifters' analysis, 1.1M gate PnR), Global Clock Distribution: clock tree design/modeling/spice-simulation and ICC2 implementation
+* Defined physical design methodology for 7nm process corners including very low voltage operation
+and timing margins
+* Design of global clock distribution network for a very large 7nm SoC, model the reconvergent
+network, simulate with spice, implement using ICC2 and resimulate with extracted spice netlist.
+Publish chip level clock specification document.
+* Block level place and route implementation of a million gate low voltage design.
+* Set up a custom compiler schematic and netlisting environment with extracted views. Characterize
+PVT sensitivity of library cells, esp. level shifters and a ring oscillator with spice simulations and
+publish results.
+* Set up and define methodology for an EM/IR flow using Ansys Redhawk/Seascape
+* Support and manage PLL, DLL, DDR, PCIE vendors through weekly meetings.
 
 ### [2015-2017] ZGlue Inc. 
-* Hierarchical implementation of a tile based design including floorplanning, power grid, place and route, lec and physical verification. [Silicon success.][zglue-2]
-* Physical design methodology; Cadence Innovus based netlist-to-gds automated implementation flow, LEC methodology and LVS/DRC flow development. 
-* Mixed-signal CAD, Programming in SKILL language, Detailed Abstract generation for through-block routability.
-* Setup Virtuoso QRC extraction flow, set up and run full chip STA with Tempus, set up and run LEC on chip. [Silicon success.][zglue]
+* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also
+developed Assura physical verification and logical equivalence (lec) flows.
+* Hierarchical implementation of an instance array design including floorplanning, power grid, pin
+placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue-2]
+* Abstract (LEF) generation of analog macros and hierarchical instances to allow for through the block
+routing.
+* Mixed-signal custom CAD support including SKILL programming
+* Set up Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus,
+set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 ### [2015-present] Machine Learning
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
