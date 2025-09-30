@@ -16,7 +16,7 @@ I have extensive and broad experience in Physical Design and a long history of s
 productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citizen.]
 
 [LinkedIn][linkedin]
-[This Resume][pdresume]
+[Resume][pdresume]
 [My Github][github]
 
 ## Professional Experience
