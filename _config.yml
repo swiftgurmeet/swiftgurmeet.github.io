@@ -1,6 +1,6 @@
 # Setup
 title: "{versatile.effective.excellent.}"
-tagline:PhysicalDesign,Implementation,Flow,Methodology,Tapeout,PPA,QOR,Synthesis,Constraints,Place,Route,PnR,P&R,Placement,Partitioning,Assembly,ClockTree,CTS,Placement,Routing,STA,ECO,Signoff,PhysicalVerification,PowerGrid,PowerEstimate,PowerAnalysis,Spice,Simulation,LogicalEquivalence,ParasiticsExtraction,LPE,Optimization,Automation,CAD,EDA,DTCO,SDC,EM/IR,VoltageDrop,Antenna,DRC,LVS,Programming,Scripting,Python,Tcl,R,Perl,Shell,Cadence,Genus,Innovus,Synopsys,FusionCompiler,Primetime,Ansys,Apache,Redhawk,Lead,Guide,Mentor,Collaborate,Effective,Efficient,Correctbyconstruction
+tagline: vlsi, physical design, eda, programming, data science, machine learning
 paginate: 1
 
 
