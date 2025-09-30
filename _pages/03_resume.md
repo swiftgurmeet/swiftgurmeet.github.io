@@ -212,3 +212,4 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 [linkedin]: https://www.linkedin.com/in/gurmeet
 [pdresume]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
 [github]: https://github.com
+
