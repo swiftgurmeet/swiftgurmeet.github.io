@@ -14,8 +14,8 @@ Sunnyvale, CA 94086
  [LinkedIn][linkedin]  
  [Resume][pdresume]  
  [Github][github]
-  
-  
+   
+   
 ## Summary
 
 I have extensive and broad experience in Physical Design and a long history of successful,
