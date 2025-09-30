@@ -17,7 +17,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup]. [U.S.Citize
 
 [LinkedIn][linkedin]  
 [Resume][pdresume]  
-[My Github][github]  
+[Github][github]  
 
 ## Professional Experience
 
