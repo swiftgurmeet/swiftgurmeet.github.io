@@ -10,7 +10,7 @@ I have developed, over the years, complete, automated block level physical imple
 * Low Power Verification(Cadence Conformal-LP using CPF),
     Synopsys LEC (Formality),
     Sequence (Cooltime) STA flow, 
-    Synopsys (Pathmill; now nanotime) STA flow
+    Synopsys (Pathmill or Nanotime) STA flow
     Circuit Semantics (Dynacore) + Pearl STA flow
     Synopsys (Primetime) STA flow,
     Cadence (Tempus) STA flow,
@@ -26,5 +26,5 @@ Though not primarily a programmer/coder, I have, over 30 years, programmed in
 many langauages.
 
 TCL, Python, C-shell, Perl, C, R, Pascal : Thousands of lines  of code
-Swift, MATLAB, Scala, SKILL, Objective-C : Hundreds of lines of code
+Swift, MATLAB, Scala, SKILL, Objective-C, Java : Hundreds of lines of code
 
