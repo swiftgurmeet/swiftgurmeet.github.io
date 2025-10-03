@@ -1,4 +1,4 @@
-I have developed, over the years, complete, automated block level physical implementation and verification design flows and used/deployed them successfully for production tapeouts:
+I have developed (wrote all tcl/shell scripts for automation), over the years, complete, automated block level physical implementation and verification design flows and used/deployed them successfully for production tapeouts:
 
 * Magma (Blastfusion) based netlist→GDSII flow: twice
 * Cadence (Encounter/Innovus) based netlist→GDSII flow: 4 times
