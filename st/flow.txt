@@ -1,8 +1,10 @@
 I have developed (wrote all tcl/shell scripts for automation), over the years, complete, automated block level physical implementation and verification design flows and used/deployed them successfully for production tapeouts:
 
-* Magma (Blastfusion) based netlist→GDSII flow: twice
-* Cadence (Encounter/Innovus) based netlist→GDSII flow: 4 times
 * Cadence (Genus/Innovus) based RTL→GDSII flow: once
+* Cadence (Encounter/Innovus) based netlist→GDSII flow: 4 times
+* Magma (Blastfusion) based netlist→GDSII flow: twice
+* Synopsys (Primetime) STA flow: 3 times
+* Cadence (Tempus) STA flow: 2 times
 * RC extraction (STaR, Assura, QRC, Quantus): 4 times
 * LVS/DRC/ERC/ANT (Mentor Calibre, Cadence Assura/PVS using TSMC decks): 4 times
 * Cadence LEC (Conformal): 3 times
@@ -12,19 +14,22 @@ I have developed (wrote all tcl/shell scripts for automation), over the years, c
     Sequence (Cooltime) STA flow, 
     Synopsys (Pathmill or Nanotime) STA flow
     Circuit Semantics (Dynacore) + Pearl STA flow
-    Synopsys (Primetime) STA flow,
-    Cadence (Tempus) STA flow,
     Synopsys (PTPX) Power Analysis,
+    Cadence semi-custom (Assura) RC extraction,
     Sequence (Coolpower) EM/IR,
     Apache (Redhawk/Seascape) EM/IR, 
-    Cadence semi-custom (Assura) RC extraction,
     Cadence (Abgen) LEF generation: At least once
  
 Few were built around EDA vendors' reference flows.
 
 Though not primarily a programmer/coder, I have, over 30 years, programmed in 
-many langauages.
+many langauages but please don't give me a pop quiz. I have coded minimum spanning
+tree, AVL tree, shortest path, searching/sorting/hashing algorithms and implemented 
+a minimal LISP interpreter in Pascal that implements recursive "defun" functions 
+within the first few months of my touching a computer keyboard for the first time.
 
 TCL, Python, C-shell, Perl, C, R, Pascal : Thousands of lines  of code
 Swift, MATLAB, Scala, SKILL, Objective-C, Java : Hundreds of lines of code
+
+See some of my code at: https://github.com/swiftgurmeet
 
