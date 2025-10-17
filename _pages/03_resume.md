@@ -108,14 +108,20 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
 ### [2006-07] Teranetics, Principal Engineer
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks to tapeout, some using [x-route.][xroute] 
-* Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. 
+* Automate implementation flow using Magma Blastfusion place and route tool, static timing analysis flow, logical equivalence flow and physical verification flow. 
 * Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 ### [2004-06] Airgo Networks, Physical Design Manager
-* Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal (LEC)  and Calibre physical verificatino flows. Full chip EM/IR flow development and signoff using Apache-Redhawk.  Tapeout signoff/jobview. Multiple ECOs, I/O Spice sims and silicon failure analysis, IP integration, Methodology, project management. [Silicon success.][agn3]
+* Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal (LEC)  and Calibre physical verificatino flows. 
+* Full chip EM/IR flow development and signoff using Apache-Redhawk.  
+* Tapeout signoff/jobview. Multiple ECOs, I/O Spice sims and silicon failure analysis, IP integration, Methodology, project management. [Silicon success.][agn3]
 
 ### [2001-04] Transmeta, Senior Member of Technical Staff
-* 1.2/1.8GHz Efficeon CPUs: Implement Hyper-Transport PnR blocks; Register File custom circuit design. Peformed dozens of all layer and metal-only ECOs. Setup latch compatible STA flow. Array and noise methodologies. One patent awarded on a Repeater Circuit. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
+* 1.2/1.8GHz Efficeon CPUs: Implement Hyper-Transport PnR blocks; Silicon Success. [efficeon1]
+* Register File custom circuit design. Silicon Success. [efficeon2]
+* Peformed dozens of all layer and metal-only ECOs. 
+* Setup latch compatible STA flow. Array and noise methodologies. 
+* One patent awarded on a Repeater Circuit. 
 
 ### [1999-01] Sun Microsystems, Member of Technical Staff
 * UltraSparc V CPU: CAM Register File (4 write, 2 read, 1 compare) design, modeling and verification
