@@ -70,7 +70,8 @@ routing.
 * Set up Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus,
 set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 
-### [2015-present] Machine Learning
+### [2015-present] Machine Learning/AI
+* Several courses on deeplearning.ai
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, [RNNs][dinosaurs], XGBoost. 
@@ -81,20 +82,31 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 ### [2013-14] Qualcomm Technologies
 * 40nm ASIC: Top level floorplan and power grid design with multiple power domains for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. Beat the schedule.[Silicon success (WCD9335).][wcd9335]
 
-### [2008-13] Consultant/Engineer
-* 14nm/FinFET: Developed complete,automated rtl2gds flow using Cadence tools. Using the same flow, implemented an ARM A9/Neon design @ 2.4GHz. 
-* 28nm DDR-PHY IP final implementation runs for tapeout.
-* Developed a 40nm automated, optimized, tapeout ready, Cadence based netlist-to-gds implementation flow. Wrote Tcl scripts for a correct by construction, tunable flow used for all blocks.
-* Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
-* Implemented several large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
-* Helped grow the size and capability of the physical design team and lead technical direction.
-* Setup 40nm Cadence based, automated, tapeout ready, block level implementation flow.
-* Hierarchical physical implementation flow in 65nm technology using Cadence.
-* 65nm Telecom ASIC: Implementation of two large blocks using Magma. [Silicon Success.][yahara]
-* 65nm WiFi ASIC: Implementation of large block using Magma. [Silicon Success.][wcn1312]
-* 65nm WiFi ASIC: Full chip EM/IR signoff  using Apache-Redhawk. [Silicon Success.][wcn1320]
+### [12-13] Cadence Design Systems, Staff Applications Engineer
+* Developed complete, automated rtl2gds flow (Globalfoundries 14nm/finFET); optimized for PPA and validated on A9 ARM core with Neon coprocessor (TT Nominal @ 2.5 GHz). 
+* Helped tapeout a DDR IP for a client by doing the final setup/hold/other fixes.
 
-### [2006-08] Teranetics
+### [2011-12] Sandforce Inc./LSI Corp., Principal Engineer
+* Developed a complete, and deployed, a 40 nm automated and optimized, tapeout ready, Cadence based netlist to tapeout implementation flow at Sandforce Inc. 
+* Wrote Tcl scripts for a correct by construction, tunable flow used to implement all blocks in the design.
+* Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
+* Did studies on standard cell EM limits by frequency and flip-flop metastability
+* Implemented eight large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
+* Helped grow the size and capability of the physical design team and lead technical direction.
+
+### [2010-11] Sandisk, Physical Design Consultant
+# Set up 40nm Cadence based, automated, tapeout ready, block level netlist to tapeout implementation flow at Sandisk Inc.
+# Developed hierarchical physical implementation flow in 65nm technology using Cadence at Sandisk.
+
+### [2008-10] Qualcomm, Physical Design Consultant
+* 65nm WiFi ASIC: Tapeout implementation  of large block using Magma. [Silicon Success.][wcn1312]
+* 65nm WiFi ASIC: Full chip EM/IR signoff using Apache-Redhawk. Silicon Success. [Silicon Success.][wcn1320]
+
+### [2007-08]  AMCC, Principal Engineer
+* Telecom ASIC: Tapeout implementation of two large blocks using Magma at AMCC. [Silicon Success.][yahara]
+* Set up 65nm Cadence Encounter based block level implementation flow.
+
+### [2006-07] Teranetics
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 ### [2004-06] Airgo Networks
