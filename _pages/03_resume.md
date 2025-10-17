@@ -23,7 +23,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 
 ## Professional Experience
 
-### [2022-2024] Physical Design Methodology Engineer, Intel Corp.
+### [2022-2024] Intel Corp., Physical Design Methodology Engineer
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
 supports numerous flow, technology, power/performance/area optimization options. This enabled
 batch jobs with up to thousands of parallel runs with different options, IPs, libraries and metal stacks
@@ -39,14 +39,14 @@ standard IPs and publish results with different versions of Intel18A libraries a
 hierarchical RTL2GDS flow for a high performance ARM core (Cortex-X925 “Blackhawk”) on the
 Intel18A process.
 
-### [2020-2022] Contractor, Samsung Austin R&D Center
+### [2020-2022] Samsung Austin R&D Center, Physical Design Contractor
 * Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm
 technology using Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing
 requirements. Over 75 timing/DRC/other ECOs. Provide guidance to the CAD team on
 methodology.
 * PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
-### [2018-2019] Esperanto Technologies
+### [2018-2019] Esperanto Technologies, Physical Design Methodology and Global Clocking Engineer
 * Defined physical design methodology for 7nm process corners including very low voltage operation
 and timing margins
 * Design of global clock distribution network for a very large 7nm SoC, model the reconvergent
@@ -59,7 +59,7 @@ publish results.
 * Set up and define methodology for an EM/IR flow using Ansys Redhawk/Seascape
 * Support and manage PLL, DLL, DDR, PCIE vendors through weekly meetings.
 
-### [2015-2017] ZGlue Inc. 
+### [2015-2017] ZGlue Inc., Physical Design Consultant
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also
 developed Assura physical verification and logical equivalence (lec) flows.
 * Hierarchical implementation of an instance array design including floorplanning, power grid, pin
@@ -79,14 +79,14 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * [Python][coursera-dl-code], [R][coursera-r]. Bit of [Scala][coursera-scala1], [Swift][swift], [MATLAB][coursera-ml-code].
 * Expert linux user.
 
-### [2013-14] Qualcomm Technologies
+### [2013-14] Qualcomm Technologies, Senior Staff Engineer
 * 40nm ASIC: Top level floorplan and power grid design with multiple power domains for a mixed signal design, automated floorplan generation with Tcl. Wrote power intent CPF from scratch. Full chip formal (LEC) and low power (CLP) verification using Cadence tools. Apache Redhawk EM/IR debug and fixes.  Received Qualstar certificates. Beat the schedule.[Silicon success (WCD9335).][wcd9335]
 
 ### [12-13] Cadence Design Systems, Staff Applications Engineer
 * Developed complete, automated rtl2gds flow (Globalfoundries 14nm/finFET); optimized for PPA and validated on A9 ARM core with Neon coprocessor (TT Nominal @ 2.5 GHz). 
 * Helped tapeout a DDR IP for a client by doing the final setup/hold/other fixes.
 
-### [2011-12] Sandforce Inc./LSI Corp., Principal Engineer
+### [2011-12] Sandforce Inc./LSI Corp., Principal Physical Design Engineer
 * Developed a complete, and deployed, a 40 nm automated and optimized, tapeout ready, Cadence based netlist to tapeout implementation flow at Sandforce Inc. 
 * Wrote Tcl scripts for a correct by construction, tunable flow used to implement all blocks in the design.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
@@ -94,7 +94,7 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * Implemented eight large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
-### [2010-11] Sandisk, Physical Design Consultant
+### [2010-11] Sandisk, Physical Design Contractor
 # Set up 40nm Cadence based, automated, tapeout ready, block level netlist to tapeout implementation flow at Sandisk Inc.
 # Developed hierarchical physical implementation flow in 65nm technology using Cadence at Sandisk.
 
@@ -106,24 +106,24 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * Telecom ASIC: Tapeout implementation of two large blocks using Magma at AMCC. [Silicon Success.][yahara]
 * Set up 65nm Cadence Encounter based block level implementation flow.
 
-### [2006-07] Teranetics
+### [2006-07] Teranetics, Principal Engineer
 * 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
-### [2004-06] Airgo Networks
+### [2004-06] Airgo Networks, Physical Design Manager
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal (LEC)  and Calibre physical verificatino flows. Full chip EM/IR flow development and signoff using Apache-Redhawk.  Tapeout signoff/jobview. Multiple ECOs, I/O Spice sims and silicon failure analysis, IP integration, Methodology, project management. [Silicon success.][agn3]
 
-### [2001-04] Transmeta
+### [2001-04] Transmeta, Senior Member of Technical Staff
 * 1.2/1.8GHz Efficeon CPUs: Implement Hyper-Transport PnR blocks; Register File custom circuit design. Peformed dozens of all layer and metal-only ECOs. Setup latch compatible STA flow. Array and noise methodologies. One patent awarded on a Repeater Circuit. Silicon Success ([#1][efficeon1] and [#2][efficeon2]).
 
-### [1999-01] Sun Microsystems
+### [1999-01] Sun Microsystems, Member of Technical Staff
 * UltraSparc V CPU: CAM Register File (4 write, 2 read, 1 compare) design, modeling and verification
 * 1.2GHz UltraSparc III CPU: Ported a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. Wrote a C language module to create a timing model through Pathmill API. [Silicon success.][ultrasparc3]
 
-### [1997-99] Intel Corporation
+### [1997-99] Intel Corporation, Design Engineer
 * 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
 * 600 MHz Pentium III CPU : GTL I/O circuit design. One patent disclosure. [Silicon success.][katmai]
 
-### [1994-97] STMicroelectronics
+### [1994-97] STMicroelectronics, Design Engineer
 * Circuit Design of a high performance 32kx8, and a low power 128kx8 SRAM. [Silicon success][stm62128image]. CAD setup for custom circuit design. Reverse engineer a competitor register file and re-implement, verify functionality (including leap years, Y2K etc.) using verilog switch level simulation. [Silicon success.][rtcimage]
 
 ## Education: 
