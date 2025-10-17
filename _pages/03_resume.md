@@ -107,7 +107,7 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * Set up 65nm Cadence Encounter based block level implementation flow.
 
 ### [2006-07] Teranetics, Principal Engineer
-* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] 
+* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks to tapeout, some using [x-route.][xroute] 
 * Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. 
 * Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
