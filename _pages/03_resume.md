@@ -107,7 +107,9 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * Set up 65nm Cadence Encounter based block level implementation flow.
 
 ### [2006-07] Teranetics, Principal Engineer
-* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
+* 130nm/65nm 10GBASE-T Phy ASIC:  Implement many large blocks, some using [x-route.][xroute] 
+* Automate implementation using place and route tools, static timing analysis, logical equivalence and physical verification flows. 
+* Power estimation; power reduction using special cells. [Silicon Success.][tn1010]
 
 ### [2004-06] Airgo Networks, Physical Design Manager
 * Multiple WiFi ASICs: Implement many blocks using Magma. Automate PTSI STA, formal (LEC)  and Calibre physical verificatino flows. Full chip EM/IR flow development and signoff using Apache-Redhawk.  Tapeout signoff/jobview. Multiple ECOs, I/O Spice sims and silicon failure analysis, IP integration, Methodology, project management. [Silicon success.][agn3]
