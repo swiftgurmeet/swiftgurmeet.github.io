@@ -95,8 +95,8 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
 ### [2010-11] Sandisk, Physical Design Contractor
-# Set up 40nm Cadence based, automated, tapeout ready, block level netlist to tapeout implementation flow at Sandisk Inc.
-# Developed hierarchical physical implementation flow in 65nm technology using Cadence at Sandisk.
+* Set up 40nm Cadence based, automated, tapeout ready, block level netlist to tapeout implementation flow at Sandisk Inc.
+* Developed hierarchical physical implementation flow in 65nm technology using Cadence at Sandisk.
 
 ### [2008-10] Qualcomm, Physical Design Consultant
 * 65nm WiFi ASIC: Tapeout implementation  of large block using Magma. [Silicon Success.][wcn1312]
