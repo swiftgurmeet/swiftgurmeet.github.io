@@ -38,10 +38,10 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * Worked with Cadence to produce a performance optimized implementation and the associated hierarchical 
   RTL2GDS flow for a high performance ARM core (Cortex-X925 “Blackhawk”) on the Intel18A process.
 
-### [2020-2022] Samsung Austin R&D Center, Physical Design Contractor
-*  Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm technology using 
-   Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing requirements.
-   Over 75 timing/DRC ECOs.  Provide guidance to the CAD team on methodology.
+### [2020-2022] [Samsung Austin R&D Center][sarc], Physical Design Contractor
+* Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm technology using 
+  Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing requirements.
+  Over 75 timing/DRC ECOs.  Provide guidance to the CAD team on methodology.
 * PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
 ### [2018-2019] Esperanto Technologies, Physical Design Methodology and Global Clocking Engineer
