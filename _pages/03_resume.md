@@ -90,11 +90,11 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * Implemented eight large blocks at tapeout quality using the above flow ; the resulting GDSII were timing, LEC, LVS/DRC clean. [Silicon success.][sf3700]
 * Helped grow the size and capability of the physical design team and lead technical direction.
 
-### [2010-11] Sandisk, Physical Design Contractor
+### [2010-11]  West Valley Technologies (Physical Design Contractor at Sandisk)
 * Set up 40nm Cadence based, automated, tapeout ready, block level netlist to tapeout implementation flow at Sandisk Inc.
 * Developed hierarchical physical implementation flow in 65nm technology using Cadence at Sandisk.
 
-### [2008-10] Qualcomm, Physical Design Consultant
+### [2008-10] Qualcomm, Independent Contractor for Physical Design
 * 65nm WiFi ASIC: Tapeout implementation  of large block using Magma. [Silicon Success.][wcn1312]
 * 65nm WiFi ASIC: Full chip EM/IR signoff using Apache-Redhawk. Silicon Success. [Silicon Success.][wcn1320]
 
