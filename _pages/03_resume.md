@@ -44,7 +44,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
   Over 75 timing/DRC ECOs.  Provide guidance to the CAD team on methodology.
 * PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
-### [2018-2019] Esperanto Technologies, Physical Design Methodology and Global Clocking Engineer
+### [2018-2019] [Esperanto Technologies][esperanto], Physical Design Methodology and Global Clocking Engineer
 * Defined physical design methodology for 7nm process corners including very low voltage operation and timing margins
 * Design of global clock distribution network for a very large 7nm SoC, model the reconvergent network,
   simulate with spice, implement using ICC2 and resimulate with extracted spice netlist.
@@ -180,6 +180,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
+[esperanto]: https://www.esperanto.ai/
 [sarc]: https://semiconductor.samsung.com/us/about-us/careers/sarc-acl/
 [zglue]: https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13/
 [zglue1]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
