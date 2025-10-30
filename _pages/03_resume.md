@@ -24,51 +24,47 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 ## Professional Experience
 
 ### [2022-2024] Intel Corp., Physical Design Methodology Engineer
-* Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that
-supports numerous flow, technology, power/performance/area optimization options. This enabled
-batch jobs with up to thousands of parallel runs with different options, IPs, libraries and metal stacks
-for regressions or analysis. Started the git repo for the flow and made over 150 commits.
-* Worked with Cadence to productize an Intel18A PPA oriented reference flow usable by customers to
-jump start their own implementation flows.
-* Set up infrastructure for analyzing a large number of Intel18A synthesis/place&route runs on
-industry standard IPs with Cadence based Genus/Innovus based flow, collect PPA and other QOR
-metrics and continually document/present them visually using Python-Matplotlib and R-ggplot2.
-* Continually use the above infrastructure to benchmark and optimize the PPA metrics of industry
-standard IPs and publish results with different versions of Intel18A libraries and PDKs.
-* Worked with Cadence to produce a performance optimized implementation and the associated
-hierarchical RTL2GDS flow for a high performance ARM core (Cortex-X925 “Blackhawk”) on the
-Intel18A process.
+* Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that 
+  supports numerous flow, technology, power/performance/area optimization options. This enabled 
+  batch jobs with up to thousands of parallel runs with different options, IPs, libraries and 
+  metal stacks for regressions or analysis. Started the git repo for the flow and made over 150  commits.
+* Worked with Cadence to productize an Intel18A PPA oriented reference flow usable by customers to 
+  jump start their own implementation flows.
+* Set up infrastructure for analyzing a large number of Intel18A synthesis/place&route runs on 
+  industry standard IPs with Cadence based Genus/Innovus based flow, collect PPA and other 
+  QOR metrics and continually document/present them visually using Python-Matplotlib and R-ggplot2.
+* Use the above infrastructure to continually improve and  benchmark the PPA metrics of industry 
+  standard IPs and publish results with different versions of Intel18A libraries and PDKs.
+* Worked with Cadence to produce a performance optimized implementation and the associated hierarchical 
+  RTL2GDS flow for a high performance ARM core (Cortex-X925 “Blackhawk”) on the Intel18A process.
 
 ### [2020-2022] Samsung Austin R&D Center, Physical Design Contractor
-* Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm
-technology using Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing
-requirements. Over 75 timing/DRC/other ECOs. Provide guidance to the CAD team on
-methodology.
+*  Physical implementation (rtl2gds) of 3 large GPU blocks to tapeout [Silicon Success] on a 4nm technology using 
+   Cadence Innovus, including floorplanning in SNPS, meeting all area/power/timing requirements.
+   Over 75 timing/DRC ECOs.  Provide guidance to the CAD team on methodology.
 * PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
 ### [2018-2019] Esperanto Technologies, Physical Design Methodology and Global Clocking Engineer
-* Defined physical design methodology for 7nm process corners including very low voltage operation
-and timing margins
-* Design of global clock distribution network for a very large 7nm SoC, model the reconvergent
-network, simulate with spice, implement using ICC2 and resimulate with extracted spice netlist.
-Publish chip level clock specification document.
+* Defined physical design methodology for 7nm process corners including very low voltage operation and timing margins
+* Design of global clock distribution network for a very large 7nm SoC, model the reconvergent network,
+  simulate with spice, implement using ICC2 and resimulate with extracted spice netlist.
+  Publish chip level clock specification document.
 * Block level place and route implementation of a million gate low voltage design.
-* Set up a custom compiler schematic and netlisting environment with extracted views. Characterize
-PVT sensitivity of library cells, esp. level shifters and a ring oscillator with spice simulations and
-publish results.
+* Set up a Synopsys Custom Compiler schematic and netlisting environment with extracted views.
+  Characterize PVT sensitivity of library cells, esp. level shifters and a ring oscillator 
+  with spice simulations and publish results.
 * Set up and define methodology for an EM/IR flow using Ansys Redhawk/Seascape
 * Support and manage PLL, DLL, DDR, PCIE vendors through weekly meetings.
 
 ### [2015-2017] ZGlue Inc., Physical Design Consultant
-* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset. Also
-developed Assura physical verification and logical equivalence (lec) flows.
-* Hierarchical implementation of an instance array design including floorplanning, power grid, pin
-placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue2]
-* Abstract (LEF) generation of analog macros and hierarchical instances to allow for through the block
-routing.
+* Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset.
+  Also developed Assura physical verification and logical equivalence (lec) flows.
+* Hierarchical implementation of an instance array design including floorplanning, power grid design,
+  pin placement, place and route, logical equivalence and physical verification. [Silicon success.][zglue2]
+* Abstract (LEF) generation of analog macros and hierarchical instances to allow for through the block routing.
 * Mixed-signal custom CAD support including SKILL programming
 * Set up Virtuoso QRC extraction flow for full chip STA, set up and run full chip STA with Tempus,
-set up and run full chip LEC with Conformal. [Silicon success.][zglue]
+  set up and run full chip LEC with Conformal. [Silicon success.][zglue1]
 
 ### [2015-present] Machine Learning/AI
 * Several courses on deeplearning.ai
@@ -184,7 +180,9 @@ set up and run full chip LEC with Conformal. [Silicon success.][zglue]
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
-[zglue]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
+[sarc]: https://semiconductor.samsung.com/us/about-us/careers/sarc-acl/
+[zglue]: 
+[zglue1]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
 [zglue2]: https://spectrum.ieee.org/view-from-the-valley/semiconductors/design/zglue-aims-to-make-it-cheap-and-easy-to-design-and-manufacture-wearables-and-other-iot-hardware
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
 [bsccourses]: {{ site.url }}/st/physics-courses
