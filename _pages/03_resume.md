@@ -67,7 +67,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
   set up and run full chip LEC with Conformal. [Silicon success.][zglue1]
 
 ### [2015-present] Machine Learning/AI
-* Several courses on deeplearning.ai
+* Several courses on [deeplearning.ai][deeplearning]
 * [Data Science/Machine Learning](#2015-2018-coursera-courses).
 * [Kaggle Participant][kaggleprofile]
 * CNN, [RNNs][dinosaurs], XGBoost. 
@@ -230,6 +230,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [dinosaurs]: https://colab.research.google.com/github/swiftgurmeet/keras-dinosaur-names/blob/master/dinosaur-names-keras.ipynb
 [coursera-ml-code]: https://github.com/swiftgurmeet/matlab
 [coursera-dl-code]: https://github.com/swiftgurmeet/coursera_deep_learning
+[deeplearning]: https://www.deeplearning.ai
 [linkedin]: https://www.linkedin.com/in/gurmeet
 [pdresume]: https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf
 [github]: https://github.com
