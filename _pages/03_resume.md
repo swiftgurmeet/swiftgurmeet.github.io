@@ -181,7 +181,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [sarc]: https://semiconductor.samsung.com/us/about-us/careers/sarc-acl/
-[zglue]: 
+[zglue]: https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13/
 [zglue1]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
 [zglue2]: https://spectrum.ieee.org/view-from-the-valley/semiconductors/design/zglue-aims-to-make-it-cheap-and-easy-to-design-and-manufacture-wearables-and-other-iot-hardware
 [xroute]: https://www.eetimes.com/document.asp?doc_id=1160778
