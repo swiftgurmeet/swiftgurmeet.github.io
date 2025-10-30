@@ -56,7 +56,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * Set up and define methodology for an EM/IR flow using Ansys Redhawk/Seascape
 * Support and manage PLL, DLL, DDR, PCIE vendors through weekly meetings.
 
-### [2015-2017] ZGlue Inc., Physical Design Consultant
+### [2015-2017] [ZGlue Inc.][zglue], Physical Design (Independent Consultant)
 * Physical design methodology and netlist-to-gds flow development in tcl using Cadence toolset.
   Also developed Assura physical verification and logical equivalence (lec) flows.
 * Hierarchical implementation of an instance array design including floorplanning, power grid design,
