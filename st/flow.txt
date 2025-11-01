@@ -24,9 +24,11 @@ Few were built around EDA vendors' reference flows.
 
 Though not primarily a programmer/coder, I have, over 30 years, programmed in 
 many langauages but please don't give me a pop quiz. I have coded minimum spanning
-tree, AVL tree, shortest path, searching/sorting/hashing algorithms and implemented 
-a minimal LISP interpreter in Pascal that implements recursive "defun" functions 
-within the first few months of my touching a computer keyboard for the first time.
+tree, shortest path graph algorithms, AVL tree and other searching/sorting/hashing algorithms 
+and implemented a minimal LISP interpreter in Pascal that implemented recursive "defun" functions,
+all within the first few months of touching a computer keyboard for the first time. This was in 
+1990, when I also wrote my first "App" in Turbo-pascal that had a DOS based GUI and would generate
+various patterns of audible morse code for practicing.
 
 TCL, Python, C-shell, Perl, C, R, Pascal : Thousands of lines  of code
 Swift, MATLAB, Scala, SKILL, Objective-C, Java : Hundreds of lines of code
