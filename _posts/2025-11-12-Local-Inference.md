@@ -1,9 +1,9 @@
 ---
 layout: post
 tags: update
-title: "Hello World!"
+title: "Local Inference using Ollama"
 date: 2025-11-12 11:30:00 +0000
-summary: "This is the first post"
+summary: "Setup Ollama on debian and use it with a chatbot"
 pagination: 
   enabled: true
 ---
