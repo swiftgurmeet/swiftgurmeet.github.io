@@ -26,6 +26,11 @@ markdown: kramdown
 
 #google_analytics: [UA-122692016-1]
 
+collections:
+  _posts:
+    output: true
+    permalink: /:_posts/:categories:output_ext
+
 exclude:
   - Gemfile
   - Gemfile.lock
