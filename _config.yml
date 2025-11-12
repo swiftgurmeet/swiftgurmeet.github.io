@@ -23,7 +23,7 @@ include: ['_pages']
 
 # Gems
 gems:
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 #Others
 markdown: kramdown
