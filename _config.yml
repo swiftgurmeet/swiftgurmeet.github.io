@@ -1,6 +1,6 @@
 # Setup
-title: "{versatile.effective.excellent.}"
-tagline: Physical Design, Implementation, Flow, Methodology, Tapeout, PPA, QOR, Synthesis, Constraints, Place, Route, PnR, PnR, Placement, Partitioning, Assembly, Clock Tree, CTS, Placement, Routing, STA, ECO, Signoff, Physical Verification, Power Grid, Power Estimate, Power Analysis, Spice, Simulation, Logical Equivalence, Parasitics Extraction, LPE, Optimization, Automation, CAD, EDA, DTCO, SDC, EM-IR, Voltage Drop, Antenna, DRC, LVS, Programming, Scripting, Python, Tcl, R, Perl, Shell, Cadence, Genus, Innovus, Synopsys, Fusion Compiler, Primetime, Ansys, Apache, Redhawk, Lead, Guide, Mentor, Collaborate, Effective, Efficient, Correct by construction
+title: "{versatile.effective.excellence.}"
+tagline: Physical Design, Implementation, Flow, Methodology, Tapeout, Silicon, PPA, QOR, Synthesis, Constraints, Place, Route, PnR, P&R, Placement, Partitioning, Assembly, Clock Tree, CTS, Placement, Routing, STA, Scan, DFT, ECO, Signoff, Physical Verification, Power Grid, Power Estimate, Power Analysis, Spice, Simulation, HSpice, Logical Equivalence, LEC, CLP, UPF, CPF, Parasitics Extraction, StarRC, Quantus, LPE, Layout, Mixed Signal, CMOS, Circuits, Analog, Verilog,Verilog-A, PDK, TSMC, Globalfoundry, Intel, Calibre, Optimization, Automation, CAD, EDA, DTCO, SDC, EM/IR, Voltage Drop, EM/IR, Antenna, DRC, LVS, Programming, Scripting, Python, Tcl, R, Perl, Shell, SKILL, DFII, Cadence, Genus, Innovus, Encounter, Tempus, Pegasus, libGen, LEF, DEF, Synopsys, Fusion Compiler, Primetime, SDC, Timing Constraints, Primepower, Ansys, Apache, Redhawk, Totem, Virtuoso, Conformal, Formality, Leader, Guide, Mentor, Collaborate, Effective, Efficient, Correct by Construction.
 paginate: 1
 
 
@@ -21,11 +21,35 @@ category-list: [posts, pages, images, static]
 #Static pages live here e.g. about.md
 include: ['_pages']
 
-# Gems
-gems:
-  - jekyll-paginate-v2
-
 #Others
 markdown: kramdown
 
 #google_analytics: [UA-122692016-1]
+
+description: > # this means to ignore newlines until "baseurl:"
+
+# Build settings
+theme: minima
+gems:
+  - jekyll-paginate-v2
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
+# Explicitly turn off the old code
+paginate: nil
+paginate_path: nil
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  offset: 2
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
