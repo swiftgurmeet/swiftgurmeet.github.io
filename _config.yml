@@ -2,7 +2,7 @@
 title: "{versatile.effective.excellence.}"
 email: gurmeetsbox dash learn@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Resume etc.
+  Resume, projects, life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swiftgurmeet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: swiftgurmeet
@@ -14,9 +14,6 @@ author:
   name:       Gurmeet Singh
   url:        https://swiftgurmeet.github.io/
 
-description: > # this means to ignore newlines until "baseurl:"
-  Resume, projects, life
-baseurl: ""
 linkedin_username: gurmeet
 
 category-list: [posts, pages, images, static]
@@ -28,11 +25,6 @@ include: ['_pages']
 markdown: kramdown
 
 #google_analytics: [UA-122692016-1]
-
-header_pages:
-  - projects/index.html
-  - life/index.html
-  - about.html
 
 exclude:
   - Gemfile
