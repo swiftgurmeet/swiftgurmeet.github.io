@@ -1,6 +1,12 @@
 # Setup
 title: "{versatile.effective.excellence.}"
-paginate: 1
+email: gurmeetsbox dash learn@yahoo.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Resume etc.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://swiftgurmeet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: swiftgurmeet
+show_excerpts: true
 
 
 # About/contact
@@ -8,11 +14,9 @@ author:
   name:       Gurmeet Singh
   url:        https://swiftgurmeet.github.io/
 
-email: gurmeetsbox dash learn@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   Resume, projects, life
 baseurl: ""
-github_username: swiftgurmeet
 linkedin_username: gurmeet
 
 category-list: [posts, pages, images, static]
