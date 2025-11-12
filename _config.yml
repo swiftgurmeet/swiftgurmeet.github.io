@@ -1,6 +1,5 @@
 # Setup
 title: "{versatile.effective.excellence.}"
-tagline: Physical Design, Implementation, Flow, Methodology, Tapeout, Silicon, PPA, QOR, Synthesis, Constraints, Place, Route, PnR, P&R, Placement, Partitioning, Assembly, Clock Tree, CTS, Placement, Routing, STA, Scan, DFT, ECO, Signoff, Physical Verification, Power Grid, Power Estimate, Power Analysis, Spice, Simulation, HSpice, Logical Equivalence, LEC, CLP, UPF, CPF, Parasitics Extraction, StarRC, Quantus, LPE, Layout, Mixed Signal, CMOS, Circuits, Analog, Verilog,Verilog-A, PDK, TSMC, Globalfoundry, Intel, Calibre, Optimization, Automation, CAD, EDA, DTCO, SDC, EM/IR, Voltage Drop, EM/IR, Antenna, DRC, LVS, Programming, Scripting, Python, Tcl, R, Perl, Shell, SKILL, DFII, Cadence, Genus, Innovus, Encounter, Tempus, Pegasus, libGen, LEF, DEF, Synopsys, Fusion Compiler, Primetime, SDC, Timing Constraints, Primepower, Ansys, Apache, Redhawk, Totem, Virtuoso, Conformal, Formality, Leader, Guide, Mentor, Collaborate, Effective, Efficient, Correct by Construction.
 paginate: 1
 
 
@@ -28,9 +27,7 @@ markdown: kramdown
 
 description: > # this means to ignore newlines until "baseurl:"
 
-# Build settings
-theme: minima
-gems:
+plugins:
   - jekyll-paginate-v2
 exclude:
   - Gemfile
