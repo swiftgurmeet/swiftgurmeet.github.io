@@ -2,6 +2,7 @@
 layout: post
 tags: update
 title: "Jupyter AI with local Inference using Ollama"
+author: Gurmeet Singh
 summary: "Setup Ollama on debian and use it with Jupyter AI or other chat"
 pagination: 
   enabled: true
