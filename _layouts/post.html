@@ -1,7 +1,25 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
 
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+    <div class="content">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <p class="post-meta">
+        Posted on {{ page.date | date: "%B %d, %Y" }}
+        {% if page.author %}
+          by {{ page.author }}
+        {% endif %}
+      </p>
 
-{{ content }}
+      <!-- This is where the actual content from your Markdown file is injected -->
+      {{ content }}
+    </div>
+  </body>
+</html>
+
