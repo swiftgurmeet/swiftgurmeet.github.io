@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: update
-title: "Local Inference using Ollama"
-summary: "Setup Ollama on debian and use it with a chatbot"
+title: "Jupyter AI with local Inference using Ollama"
+summary: "Setup Ollama on debian and use it with Jupyter AI or other chat"
 pagination: 
   enabled: true
 ---
@@ -14,7 +14,7 @@ pagination:
 
 More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
-Choose a directory within your user's home directory, for example, ~/local and create it.  
+Choose a directory within your user's home directory, for example, `~/local` and create it.  
 ￼
 ```
 mkdir -p ~/local
