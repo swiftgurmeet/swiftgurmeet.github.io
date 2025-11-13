@@ -20,7 +20,7 @@ Choose a directory within your user's home directory, for example, ~/local and c
 mkdir -p ~/local
 ```
 
-To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps  
+To install Ollama locally on Debian as a non-root user for a csh shell, follow these steps  
 ￼
 ```
 curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local
@@ -29,13 +29,13 @@ curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~
 Add the ollama executable to your PATH.  
 ￼
 ````
-echo 'set path = (~/local/bin $path)' >> ~/.tcshrc
+echo 'set path = (~/local/bin $path)' >> ~/.cshrc
 ````
 
-Source the tcshrc file.  
+Source the cshrc file.  
 ￼
 ```
-source ~/.tcshrc
+source ~/.cshrc
 ```
 
 Set up the Ollama server to run in the background as a service  
@@ -111,15 +111,15 @@ Print ollama activity:
 
 
 
-Step-by-step instructions for csh
-Create a virtual environment:
+Create a virtual environment for python:
 
 ```
 python3 -m venv jaienv
 ```
 
-(Replace jaienv with your desired environment name).
-Activate the virtual environment:
+(Replace jaienv with your desired environment name).  
+
+Activate the virtual environment (in csh):
 
 ```
 source jaienv/bin/activate.csh
