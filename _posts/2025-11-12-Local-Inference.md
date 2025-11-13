@@ -109,8 +109,6 @@ Print ollama activity:
 
         `ollama ps`
 
-
-
 Create a virtual environment for python:
 
 ```
@@ -144,5 +142,4 @@ Start JupyterLab:
 
 ```
 jupyter lab
-
 ```
