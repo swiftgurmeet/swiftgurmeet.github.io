@@ -35,7 +35,7 @@ Set up the Ollama server to run in the background as a service
 
 Create this file with requisite needed directories:  
 
-` ~/.config/systemd/user/ollama.service`
+```~/.config/systemd/user/ollama.service```
 
 And add this text into it (replace /home/<user> with home directory:  
 
