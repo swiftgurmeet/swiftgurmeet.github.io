@@ -20,11 +20,10 @@ Choose a directory within your user's home directory, for example, ~/local and c
     `mkdir -p ~/local`
 
 To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps: 
-Open your terminal and download the appropriate Linux binary for your architecture from the Ollama website. For AMD64, use:  
 ￼
     `curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local`
 
-Add the ollama executable to your ~/.tcshrc file.  
+Add the ollama executable to your PATH.  
 ￼
     ``echo 'set path = (~/local/bin $path)' >> ~/.tcshrc`
 
