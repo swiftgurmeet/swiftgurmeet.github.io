@@ -104,3 +104,40 @@ Print ollama activity:
 
         `ollama ps`
 
+
+
+Step-by-step instructions for csh
+Create a virtual environment:
+
+```
+python3 -m venv jaienv
+```
+
+(Replace jaienv with your desired environment name).
+Activate the virtual environment:
+
+```
+source jaienv/bin/activate.csh
+```
+
+Once activated, your shell prompt should change to indicate the active environment (e.g., (jaienv)).
+Install JupyterLab and Jupyter AI:
+
+```
+pip install jupyterlab~=4.0
+pip install "jupyter-ai[all]"
+```
+
+Register the environment as a Jupyter kernel:
+This step makes your new virtual environment and its installed packages available as a selectable kernel within the Jupyter notebook interface.
+
+```
+python3 -m ipykernel install --user --name=jaienv --display-name "Jupyter AI Environment"
+```
+
+Start JupyterLab:
+
+```
+jupyter lab
+
+```
