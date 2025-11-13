@@ -39,7 +39,7 @@ Source the tcshrc file.
 
 Set up the Ollama server to run in the background as a service  
 
-Create this file with requisite needed directories:  
+Create this file with the requisite needed directories:  
 
     `~/.config/systemd/user/ollama.service`
 
