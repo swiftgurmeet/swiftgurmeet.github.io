@@ -17,11 +17,15 @@ More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
 Choose a directory within your user's home directory, for example, ~/local and create it.  
 ￼
-    `mkdir -p ~/local`
+```
+mkdir -p ~/local
+```
 
 To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps  
 ￼
-    `curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local`
+```
+curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local
+```
 
 Add the ollama executable to your PATH.  
 ￼
