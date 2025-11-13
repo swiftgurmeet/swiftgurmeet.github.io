@@ -13,7 +13,7 @@ pagination:
  
 ### Building AI Chatbot with Local Inference using Ollama on a debian machine
 
-**More details here:** https://docs.ollama.com/linux
+**More details here:** [Ollama on Linux](https://docs.ollama.com/linux)
 
 **Choose a directory within your user's home directory, for example, ~/local and create a new directory for it.**  
 ￼
