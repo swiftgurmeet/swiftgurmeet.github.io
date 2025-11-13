@@ -93,6 +93,11 @@ You can now download and enable use of a model:
     
         `ollama pull qwen2`
 
+The models are downloaded in this directory:
+
+```
+~/.ollama
+```
 
 List currently available/downloaded models:
 
