@@ -80,16 +80,20 @@ Check the Ollama version to confirm it's running:
 
 You can now download and enable use of a model, for example, llama3:
 ￼
-    `ollama pull llama3`
-    `ollama pull deepseek-coder`
-    `ollama pull deepseek-coder:6.7b`
-    `ollama pull qwen2`
+        `ollama pull llama3`
+
+        `ollama pull deepseek-coder`
+    
+        `ollama pull deepseek-coder:6.7b`
+    
+        `ollama pull qwen2`
+
 
 List currently available/downloaded models:
 
-    `ollama list`
+        `ollama list`
 
 Print ollama activity:
 
-    `ollama ps`
+        `ollama ps`
 
