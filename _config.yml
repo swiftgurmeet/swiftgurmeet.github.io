@@ -20,9 +20,6 @@ category-list: [posts, pages, images, static]
 #Static pages live here e.g. about.md
 include: ['_pages']
 
-#Others
-markdown: kramdown
-
 #google_analytics: [UA-122692016-1]
 
 exclude:
