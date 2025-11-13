@@ -15,27 +15,27 @@ pagination:
 
 **More details here:** https://docs.ollama.com/linux
 
-**Choose a directory within your user's home directory, for example, ~/local and create a new directory for it.  **
+**Choose a directory within your user's home directory, for example, ~/local and create a new directory for it.**  
 ￼
-    ```mkdir -p ~/local```
+    `mkdir -p ~/local`
 
-To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps: 
+To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps
 ￼
-    ```curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local```
+    `curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local`
 
 Add the ollama executable to your PATH.  
 ￼
-    ```echo 'set path = (~/local/bin $path)' >> ~/.tcshrc```
+    `echo 'set path = (~/local/bin $path)' >> ~/.tcshrc`
 
 Source the tcshrc file.  
 ￼
-    ```source ~/.tcshrc```
+    `source ~/.tcshrc`
 
 Set up the Ollama server to run in the background as a service  
 
 Create this file with requisite needed directories:  
 
-```~/.config/systemd/user/ollama.service```
+    `~/.config/systemd/user/ollama.service`
 
 And add this text into it (replace /home/user with home directory:  
 
