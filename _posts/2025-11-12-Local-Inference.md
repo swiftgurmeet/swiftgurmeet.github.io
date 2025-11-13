@@ -35,7 +35,9 @@ echo 'set path = (~/local/bin $path)' >> ~/.tcshrc
 
 Source the tcshrc file.  
 ￼
-    `source ~/.tcshrc`
+```
+source ~/.tcshrc
+```
 
 Set up the Ollama server to run in the background as a service  
 
