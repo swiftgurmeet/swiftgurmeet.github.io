@@ -69,24 +69,27 @@ WantedBy=default.target
 
 Start the service with:
 
-
-    `systemctl --user start ollama.service`
+```
+systemctl --user start ollama.service
+```
 
 Enable the service to start at boot up:
 
-
-    `systemctl --user enable ollama.service`
+```
+systemctl --user enable ollama.service
+```
 
 Check the status of the service:
 
-
-    `systemctl --user status ollama.service`
-
+```
+systemctl --user status ollama.service
+```
 
 Check the Ollama version to confirm it's running:
 ￼
-
-    `ollama -v`
+```
+ollama -v
+```
 
 You can now download and enable use of a model:
 ￼
@@ -108,12 +111,15 @@ The models are downloaded in this directory:
 List currently available/downloaded models:
 
 
-        `ollama list`
+```
+ollama list
+```
 
 Print ollama activity:
 
-
-        `ollama ps`
+```
+ollama ps
+```
 
 Create a virtual environment for python:
 
