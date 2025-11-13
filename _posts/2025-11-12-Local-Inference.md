@@ -14,38 +14,38 @@ pagination:
 
 More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
-Create an installation directory, for example, `~/local`  
+Create an installation directory, for example, `~/local`
 ￼
 ```
 mkdir -p ~/local
 ```
 
-To install Ollama locally on Debian as a non-root user for a csh shell, follow these steps  
+To install Ollama locally on Debian as a non-root user for a csh shell, follow these steps
 ￼
 ```
 curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local
 ```
 
-Add the ollama executable to your PATH  
+Add the ollama executable to your PATH
 ￼
 ````
 echo 'set path = (~/local/bin $path)' >> ~/.cshrc
 ````
 
-Source the cshrc file  
+Source the cshrc file
 ￼
 ```
 source ~/.cshrc
 ```
 
-Set up the Ollama server to run in the background as a service  
+Set up the Ollama server to run in the background as a service
 
-Create this file with the requisite needed directories:  
+Create this file with the requisite needed directories:
 
 
     `~/.config/systemd/user/ollama.service`
 
-And add this text into it (replace /home/user with home directory):  
+And add this text into it (replace /home/user with home directory):
 
 ```
 [Unit]
