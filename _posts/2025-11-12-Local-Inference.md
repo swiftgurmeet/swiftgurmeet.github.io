@@ -45,7 +45,7 @@ Create this file with the requisite needed directories:
 
     `~/.config/systemd/user/ollama.service`
 
-And add this text into it (replace /home/user with home directory:  
+And add this text into it (replace /home/user with home directory):  
 
 ```
 [Unit]
