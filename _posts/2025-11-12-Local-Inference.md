@@ -27,6 +27,8 @@ curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~
 ```
 
 Add the ollama executable to your PATH
+
+
 ￼
 ````
 echo 'set path = (~/local/bin $path)' >> ~/.cshrc
