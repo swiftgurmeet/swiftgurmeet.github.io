@@ -14,7 +14,7 @@ pagination:
 
 More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
-Choose a directory within your user's home directory, for example, `~/local` and create it.  
+Create an installation directory, for example, `~/local` .
 ￼
 ```
 mkdir -p ~/local
