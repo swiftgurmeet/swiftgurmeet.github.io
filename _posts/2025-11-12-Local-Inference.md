@@ -43,6 +43,7 @@ Set up the Ollama server to run in the background as a service
 
 Create this file with the requisite needed directories:  
 
+
     `~/.config/systemd/user/ollama.service`
 
 And add this text into it (replace /home/user with home directory:  
@@ -63,23 +64,28 @@ WantedBy=default.target
 
 Start the service with:
 
+
     `systemctl --user start ollama.service`
 
 Enable the service to start at boot up:
 
+
     `systemctl --user enable ollama.service`
 
 Check the status of the service:
+
 
     `systemctl --user status ollama.service`
 
 
 Check the Ollama version to confirm it's running:
 ￼
+
     `ollama -v`
 
-You can now download and enable use of a model, for example, llama3:
+You can now download and enable use of a model:
 ￼
+
         `ollama pull llama3`
 
         `ollama pull deepseek-coder`
@@ -91,9 +97,11 @@ You can now download and enable use of a model, for example, llama3:
 
 List currently available/downloaded models:
 
+
         `ollama list`
 
 Print ollama activity:
+
 
         `ollama ps`
 
