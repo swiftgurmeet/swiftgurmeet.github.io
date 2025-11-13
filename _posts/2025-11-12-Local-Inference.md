@@ -93,14 +93,15 @@ ollama -v
 
 You can now download and enable use of a model:
 ￼
+```
+ollama pull llama3
 
-        `ollama pull llama3`
+ollama pull deepseek-coder
 
-        `ollama pull deepseek-coder`
-    
-        `ollama pull deepseek-coder:6.7b`
-    
-        `ollama pull qwen2`
+ollama pull deepseek-coder:6.7b
+
+ollama pull qwen2
+```
 
 The models are downloaded in this directory:
 
