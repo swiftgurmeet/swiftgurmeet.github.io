@@ -14,7 +14,7 @@ pagination:
 
 More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
-Create an installation directory, for example, `~/local` .
+Create an installation directory, for example, `~/local` 
 ￼
 ```
 mkdir -p ~/local
