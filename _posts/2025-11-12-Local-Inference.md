@@ -19,7 +19,7 @@ pagination:
 ￼
     `mkdir -p ~/local`
 
-To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps
+To install Ollama locally on Debian as a non-root user for a tcsh shell, follow these steps  
 ￼
     `curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local`
 
