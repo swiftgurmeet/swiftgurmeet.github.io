@@ -37,14 +37,14 @@ Create this file with requisite needed directories:
 
 ```~/.config/systemd/user/ollama.service```
 
-And add this text into it (replace /home/<user> with home directory:  
+And add this text into it (replace /home/user with home directory:  
 
 ```[Unit]
 Description=Ollama LLM Server
 After=network.target
 
 [Service]
-ExecStart=/home/<user>/local/bin/ollama serve
+ExecStart=/home/user/local/bin/ollama serve
 Restart=always
 RestartSec=3
 
