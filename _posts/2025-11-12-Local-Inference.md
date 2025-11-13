@@ -29,7 +29,7 @@ Add the ollama executable to your PATH.
 
 Source the tcshrc file.  
 ￼
-    `'source ~/.tcshrc`
+    `source ~/.tcshrc`
 
 Set up the Ollama server to run in the background as a service  
 
@@ -39,7 +39,7 @@ Create this file with requisite needed directories:
 
 And add this text into it (replace /home/<user> with home directory:  
 
-`[Unit]
+```[Unit]
 Description=Ollama LLM Server
 After=network.target
 
@@ -49,7 +49,7 @@ Restart=always
 RestartSec=3
 
 [Install]
-WantedBy=default.target`
+WantedBy=default.target```
 
 Start the service with:
 
