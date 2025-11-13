@@ -14,7 +14,7 @@ pagination:
 
 More details here: [Ollama on Linux](https://docs.ollama.com/linux)
 
-Create an installation directory, for example, `~/local` 
+Create an installation directory, for example, `~/local`  
 ￼
 ```
 mkdir -p ~/local
@@ -26,13 +26,13 @@ To install Ollama locally on Debian as a non-root user for a csh shell, follow t
 curl -fsSL https://ollama.com/download/ollama-linux-amd64.tgz | sudo tar zx -C ~/local
 ```
 
-Add the ollama executable to your PATH.  
+Add the ollama executable to your PATH  
 ￼
 ````
 echo 'set path = (~/local/bin $path)' >> ~/.cshrc
 ````
 
-Source the cshrc file.  
+Source the cshrc file  
 ￼
 ```
 source ~/.cshrc
