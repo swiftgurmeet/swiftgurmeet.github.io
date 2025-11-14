@@ -7,6 +7,7 @@ pagination:
   enabled: true
 ---
 
+## Building AI Chatbot with Local Inference using Ollama on a debian machine
 
 More details here on ollama installation: [Ollama on Linux](https://docs.ollama.com/linux)
 
