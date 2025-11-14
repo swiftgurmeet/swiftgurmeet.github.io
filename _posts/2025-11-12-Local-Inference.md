@@ -156,3 +156,117 @@ Start JupyterLab:
 ```
 jupyter lab
 ```
+
+Alternately, use your own chat script:
+
+```
+import requests
+import json
+import os
+import sys
+import uuid
+
+# Configuration
+OLLAMA_API_URL = "http://localhost:11434/api/chat"
+# The MODEL_NAME is now set via command line argument or defaults
+MODEL_NAME = "deepseek-coder:1.3b" 
+
+# System message to define the model's behavior
+SYSTEM_PROMPT = "You are a helpful assistant running on a local machine."
+
+# List to maintain conversation history
+history = []
+
+def chat_with_ollama(user_input):
+    """Sends the current conversation history to Ollama and gets a response."""
+    global history, MODEL_NAME
+
+    # Add the user's message to the history
+    history.append({"role": "user", "content": user_input})
+
+    data = {
+        "model": MODEL_NAME, # This uses the dynamically set model name
+        "messages": history,
+        "stream": False,
+        "timeout": 360000
+    }
+
+    try:
+        response = requests.post(OLLAMA_API_URL, json=data, timeout=600)
+        response.raise_for_status() 
+        
+        result = response.json()
+        message = result['message']
+        
+        # Add the assistant's message to the history
+        history.append(message)
+        
+        return message['content']
+
+    except requests.exceptions.RequestException as e:
+        print(f"\nError communicating with Ollama: {e}")
+        print(f"Please ensure Ollama is installed, running, and the model '{MODEL_NAME}' is pulled.")
+        sys.exit(1)
+
+def save_output_to_file(content):
+    """Saves the last assistant response to a text file."""
+
+    uid = uuid.uuid4().hex
+    filename = f"chat_output_{uid}.txt"
+    print("filename="+filename)
+    try:
+        with open(filename, "a") as f:
+            f.write("-" * 40 + "\n")
+            f.write(f"Model Used: {MODEL_NAME}\n")
+            f.write(f"User Prompt: {history[-2]['content']}\n")
+            f.write(f"Assistant Response:\n{content}\n")
+            f.write("-" * 40 + "\n\n")
+        print(f"[System] Successfully saved the last response to '{filename}'.")
+    except IOError as e:
+        print(f"[System] Error saving file: {e}")
+
+def main():
+    """Main loop for the chat interface."""
+    global MODEL_NAME, history
+
+    # Check for command line argument for model name
+    if len(sys.argv) > 1:
+        MODEL_NAME = sys.argv[1]
+    
+    # Initialize history with system prompt after model name is set
+    history.append({"role": "system", "content": SYSTEM_PROMPT})
+
+    print(f"--- Simple Ollama Chat Interface (Model: {MODEL_NAME}) ---")
+    print("Type 'exit' or 'quit' to end the chat.")
+    print("Type 'save' to save the last assistant response to a file.")
+    print("------------------------------------------------------------------")
+
+    while True:
+        try:
+            user_input = input("\nYou: ")
+            
+            if user_input.strip().lower() in ['exit', 'quit']:
+                print("\nGoodbye!")
+                break
+            
+            if user_input.strip().lower() == 'save':
+                if len(history) >= 2:
+                    save_output_to_file(history[-1]['content'])
+                else:
+                    print("[System] No response to save yet. Start chatting first.")
+                continue
+
+            if not user_input.strip():
+                continue
+
+            print(f"Ollama ({MODEL_NAME}): ", end='', flush=True)
+            response_text = chat_with_ollama(user_input)
+            print(response_text)
+            
+        except (KeyboardInterrupt, EOFError):
+            print("\nExiting chat.")
+            break
+
+if __name__ == "__main__":
+    main()
+```
