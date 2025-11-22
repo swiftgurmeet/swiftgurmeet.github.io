@@ -12,7 +12,6 @@ Sunnyvale, CA 94086
   
 
  [https://www.linkedin.com/in/gurmeet][linkedin]  
- [https://swiftgurmeet.github.io/st/resume_gurmeet_singh.pdf][pdresume]  
  [https://github.com][github]
    
    
