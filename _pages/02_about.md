@@ -31,6 +31,8 @@ I have worked mostly in CMOS circuit design and ASIC physical design. I made sig
 
 One day in 2015, while browsing the Coursera website, not sure what I clicked, I landed on a screen that congratulated me on registering for Prof. Andrew Ng's Machine Learning course. Fearing unimagined consequences for not continuing, I started the course and completed the first week in 4 days, the second in three and totally got into it.By the time I reached the last weeks, I was doing one week per day. I was happy with what I learnt, but somewhere along the course Prof Ng, mentioned something about maximal likelihood estimate and said not to worry if I didn't understand statistics. Soon, I had finished a set of 10 courses on statistics from John Hopkins. But, what is statistics without lot of data....and I then completed a specialization on Big Data from UC San Diego, which also made me buy, so that I could run big data assignments, a 24-core, 48GB server for $200 from Ebay (2016). I did about 22 courses in 5 months and unsurprisingly damaged my back and was mostly bed ridden for few months. More recently (2018), I completed the five course specialization on Deep Learning also taught by Prof Andrew Ng. and acquired a better computer, the kind where the GPU consumes more power than the CPU. Also, did not do so great on [Kaggle][kaggle]. I am a hardware design engineer by profession.
 
+[Completed some deeplearning.ai courses lately][deeplearning-courses]
+
 [resume]: {{ site.url }}/resume/
 [kaggle]: https://www.kaggle.com/gary347
 [lisp]: https://github.com/swiftgurmeet/prehistoric/blob/master/lisp.c
@@ -63,4 +65,5 @@ One day in 2015, while browsing the Coursera website, not sure what I clicked, I
 [minofcomm]: {{ site.url  }}/st/min-of-comm-ham.pdf
 [mecourses]: {{ site.url  }}/st/masters-courses
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
+[deeplearning-courses]: { site.url  }}/st/deeplearning-ai-courses-completed.png
 
