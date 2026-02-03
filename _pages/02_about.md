@@ -65,5 +65,5 @@ One day in 2015, while browsing the Coursera website, not sure what I clicked, I
 [minofcomm]: {{ site.url  }}/st/min-of-comm-ham.pdf
 [mecourses]: {{ site.url  }}/st/masters-courses
 [alumnimedal]: {{ site.url }}/images/AlumniMedal.jpg
-[deeplearning-courses]: { site.url  }}/st/deeplearning-ai-completed-courses.png
+[deeplearning-courses]: {{ site.url  }}/st/deeplearning-ai-completed-courses.png
 
