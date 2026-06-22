@@ -21,6 +21,11 @@ I have extensive and broad experience in Physical Design and a long history of s
 productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citizen.)
 
 ## Professional Experience
+* Design Technology Co-Optimization (DTCO) work on improving multiple libraries with different 
+  heights and their PPA benchmarking.
+* Develop Continuous Mixed Row (CMR) PnR flow using Synopsys Fusion Compiler.
+
+### [2022-2024] Intel Corp., Consulting Engineer (Through CTG Inc.)
 
 ### [2022-2024] Intel Corp., Physical Design Methodology Engineer
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that 
