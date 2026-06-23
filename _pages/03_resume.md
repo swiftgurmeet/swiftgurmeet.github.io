@@ -26,6 +26,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * Design Technology Co-Optimization (DTCO) work on improving multiple libraries with different 
   heights and their PPA benchmarking.
 * Develop Continuous Mixed Row (CMR) PnR flow using Synopsys Fusion Compiler.
+* Data Analytics and Visualization of PnR metrics
 
 ### [2022-2024] Intel Corp., Physical Design Methodology Engineer
 * Set up and use an implementation (rtl2gds) flow for Intel 18A node using Cadence Flowtool that 
