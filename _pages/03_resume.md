@@ -51,7 +51,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 
 ### [2018-2019] [Esperanto Technologies][esperanto], Physical Design Methodology and Global Clocking Engineer
 * Defined physical design methodology for 7nm process corners including very low voltage operation and timing margins 
-* Designed the global “Wave Clock” distribution network for a very large 7nm SoC. Created a spice model of the reconvergent network, simulated, optimized and then  implemented using ICC2. Resimulated and verified with extracted spice netlist. 
+* Designed the global “Wave Clock” distribution network for a [very large 7nm SoC][et-soc-1]. Created a spice model of the reconvergent network, simulated, optimized and then  implemented using ICC2. Resimulated and verified with extracted spice netlist. 
 * Clocking Methodology owner; published Clock Specification Manual for all aspects of global and local clocking methodology. 
 * Block level place and route implementation of a million gate low voltage design. 
 * Set up a Synopsys Custom Compiler schematic and netlisting environment with extracted views. Characterize PVT sensitivity of library cells, esp. level shifters and a ring oscillator with spice simulations at near threshold operation and publish results.
@@ -183,6 +183,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
 [esperanto]: https://www.esperanto.ai/
+[et-soc1]: https://www.esperanto.ai/wp-content/uploads/2022/05/Dave-IEEE-Micro.pdf
 [sarc]: https://semiconductor.samsung.com/us/about-us/careers/sarc-acl/
 [zglue]: https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13/
 [zglue1]: https://www.eejournal.com/article/fast-iot-prototyping-and-assembly/
