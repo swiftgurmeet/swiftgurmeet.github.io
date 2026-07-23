@@ -50,14 +50,11 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * PnR flow development in SNPS fusion compiler for 3nm (Samsung 3GAP) technology
 
 ### [2018-2019] [Esperanto Technologies][esperanto], Physical Design Methodology and Global Clocking Engineer
-* Defined physical design methodology for 7nm process corners including very low voltage operation and timing margins
-* Design of global clock distribution network for a very large 7nm SoC, model the reconvergent network,
-  simulate with spice, implement using ICC2 and resimulate with extracted spice netlist.
-  Publish chip level clock specification document.
-* Block level place and route implementation of a million gate low voltage design.
-* Set up a Synopsys Custom Compiler schematic and netlisting environment with extracted views.
-  Characterize PVT sensitivity of library cells, esp. level shifters and a ring oscillator 
-  with spice simulations and publish results.
+* Defined physical design methodology for 7nm process corners including very low voltage operation and timing margins 
+* Designed the global “Wave Clock” distribution network for a very large 7nm SoC. Created a spice model of the reconvergent network, simulated, optimized and then  implemented using ICC2. Resimulated and verified with extracted spice netlist. 
+* Clocking Methodology owner; published Clock Specification Manual for all aspects of global and local clocking methodology. 
+* Block level place and route implementation of a million gate low voltage design. 
+* Set up a Synopsys Custom Compiler schematic and netlisting environment with extracted views. Characterize PVT sensitivity of library cells, esp. level shifters and a ring oscillator with spice simulations at near threshold operation and publish results.
 * Set up and define methodology for an EM/IR flow using Ansys Redhawk/Seascape
 * Support and manage PLL, DLL, DDR, PCIE vendors through weekly meetings.
 
