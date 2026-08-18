@@ -203,7 +203,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [isetup]: https://swiftgurmeet.github.io/st/flow.txt
 [delhi-university]: http://www.du.ac.in
 [iisc-wiki]: https://en.wikipedia.org/wiki/Indian_Institute_of_Science#Rankings
-[iisc-ece]: http://ece.iisc.ernet.in
+[iisc-ece]: https://ece.iisc.ac.in/
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/BWUZ2YPXS7JF
 [coursera-ml-bigdata]: https://www.coursera.org/account/accomplishments/certificate/56KMVVKJM2AS
 [coursera-pml]: https://www.coursera.org/account/accomplishments/certificate/8BXT3T2YRTBB
