@@ -85,7 +85,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * Helped tapeout a DDR IP for a client by doing the final setup/hold/other fixes.
 
 ### [2011-12] Sandforce Inc./LSI Corp., Principal Physical Design Engineer
-* Developed a complete, and deployed, a 40 nm automated and optimized, tapeout ready, Cadence based netlist to tapeout implementation flow at Sandforce Inc. 
+* Developed and deployed, a completely automated and optimized, tapeout ready, 40nm, Cadence based netlist to tapeout implementation flow at Sandforce Inc. 
 * Wrote Tcl scripts for a correct by construction, tunable flow used to implement all blocks in the design.
 * Developed automated, tapeout ready, STA setup using Primetime-SI using Tcl/Perl scripts.
 * Did studies on standard cell EM limits by frequency and flip-flop metastability
