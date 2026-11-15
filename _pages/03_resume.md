@@ -24,7 +24,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 
 ### [2026-] IBM Research, Consulting Engineer (Through CTG Inc.)
 * Physical Design Implementation Flow: PPA Optimization, Benchmarking and Enablement
-* Design Technology Co-Optimization (DTCO) at 14A/10A technology nodes.
+* Design Technology Co-Optimization (DTCO) at 18A/14A/10A technology nodes.
 * Develop Continuous Mixed Row (CMR) PnR flow using Synopsys Fusion Compiler.
 * Data Analytics and Visualization of PnR metrics
 
