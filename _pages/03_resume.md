@@ -170,7 +170,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 
 ### [1986-89]  [B.Sc., Physics][bsccourses], [Delhi University][delhi-university]. [First class with distinction, Gold medal, Best Student: 1987/88/89.][bsccerts]
 
-[wcd9335]: https://www.qualcomm.com/products/wcd9335
+[wcd9335]: https://www.qualcomm.com/audio/applications/compute-and-mobile-audio/products/wcd9335
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
 [tn1010]: https://news.thomasnet.com/companystory/teranetics-announces-production-availability-of-industry-s-only-single-chip-ethernet-10gbase-t-phy-519154
 [yahara]: https://www.businesswire.com/news/home/20090323005532/en/AMCC-Announces-Yahara-Family-10GbE-FramerMapperPHY-Devices
