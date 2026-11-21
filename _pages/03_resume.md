@@ -172,7 +172,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 
 [wcd9335]: https://www.qualcomm.com/audio/applications/compute-and-mobile-audio/products/wcd9335
 [sf3700]: https://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon
-[tn1010]: https://news.thomasnet.com/companystory/teranetics-announces-production-availability-of-industry-s-only-single-chip-ethernet-10gbase-t-phy-519154
+[tn1010]: https://www.cablinginstall.com/home/article/16481078/teranetics-demos-10gbase-t-phy
 [yahara]: https://www.businesswire.com/news/home/20090323005532/en/AMCC-Announces-Yahara-Family-10GbE-FramerMapperPHY-Devices
 [wcn1312]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-introduces-single-chip-80211n-wireless-lan-solution-handsets-and
 [wcn1320]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-enables-whole-house-media-streaming-industrys-first-4x4-mimo
@@ -180,8 +180,8 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [efficeon1]: https://www.extremetech.com/computing/55146-transmeta-unveils-the-efficeon
 [efficeon2]: https://en.wikipedia.org/wiki/Transmeta_Efficeon
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
-[cascades]: https://ark.intel.com/products/codename/1896/Cascades
-[katmai]: https://ark.intel.com/products/codename/1938/Katmai
+[cascades]: https://www.intel.com/pressroom/archive/releases/1999/sp082399.htm
+[katmai]: https://www.intel.com/pressroom/archive/releases/1999/dp011199.htm
 [esperanto]: https://www.esperanto.ai/
 [et-soc-1]: https://www.esperanto.ai/wp-content/uploads/2022/05/Dave-IEEE-Micro.pdf
 [sarc]: https://semiconductor.samsung.com/us/about-us/careers/sarc-acl/
