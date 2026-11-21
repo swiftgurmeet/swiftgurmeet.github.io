@@ -126,8 +126,8 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 * 1.2GHz UltraSparc III CPU: Ported a dozen 130nm dynamic circuit blocks, including adders up to 64-bits, from 180nm to 130nm. Wrote a C language module to create a timing model through Pathmill API. [Silicon success.][ultrasparc3]
 
 ### [1997-99] Intel Corporation, Design Engineer
-* 833MHz Pentium III Xeon CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
-* 600 MHz Pentium III CPU : GTL I/O circuit design. One patent disclosure. [Silicon success.][katmai]
+* 833MHz Pentium III Xeon "Cascades" CPU: High speed dynamic circuit design for L2$ ECC, L2$ STA/EM/IR verification. [Silicon success.][cascades]
+* 600 MHz Pentium III "Katmai" CPU : GTL I/O circuit design. One patent disclosure. [Silicon success.][katmai]
 
 ### [1994-97] STMicroelectronics, Design Engineer
 * Circuit Design of a high performance 32kx8, and a low power 128kx8 SRAM. [Silicon success][stm62128image]. CAD setup for custom circuit design. Reverse engineer a competitor register file and re-implement, verify functionality (including leap years, Y2K etc.) using verilog switch level simulation. [Silicon success.][rtcimage]
