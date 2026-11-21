@@ -178,7 +178,7 @@ productized tapeouts, sometimes using flows that [I set up][isetup].  (U.S.Citiz
 [wcn1320]: https://www.qualcomm.com/news/releases/2009/06/02/qualcomm-enables-whole-house-media-streaming-industrys-first-4x4-mimo
 [agn3]: https://www.premisesnetworks.com/doc/airgo-demonstrates-unprecedented-next-generat-0001
 [efficeon1]: https://www.extremetech.com/computing/55146-transmeta-unveils-the-efficeon
-[efficeon2]: https://www.anandtech.com/show/1585/13
+[efficeon2]: https://en.wikipedia.org/wiki/Transmeta_Efficeon
 [ultrasparc3]: http://www.cpu-world.com/CPUs/UltraSparc-III/Sun%20Microsystems-SME1052BLGA-900%20-%20SME%201052B%20LGA%20900.html
 [cascades]: https://ark.intel.com/products/codename/1896/Cascades
 [katmai]: https://ark.intel.com/products/codename/1938/Katmai
